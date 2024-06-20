@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sales Leads Pipeline
-description: Feugiat amet tempus
+description: Data Engineering, SQL and Visualisations project
 image: assets/images/pic02.jpg
 ---
 

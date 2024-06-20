@@ -2,7 +2,7 @@
 layout: post
 title: Netflix data - What to Watch
 description: R Programming and Visualisation Project
-image: assets/images/pic11.jpg
+image: assets/images/pic10.jpg
 nav-menu: false
 ---
 

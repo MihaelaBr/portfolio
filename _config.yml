@@ -3,7 +3,7 @@ title: Michaela Brankova
 subtitle: Portfolio
 email: mi.brankova@gmail.com
 description: Here is a collection of some of my recent projects.
-baseurl: "/portfolio2" # the subpath of your site, e.g. /blog
+baseurl: "/portfolio" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: Michaela Brankova
 city: Zurich

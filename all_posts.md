@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Recent projects
+title: All recent projects
 landing-title: 'Recent projects'
 nav-menu: true
 description: null

@@ -20,6 +20,8 @@ tiles-count: 6
 socials:
   GitHub: https://github.com/mihaelabr
   LinkedIn: https://www.linkedin.com/in/mihaela-brankova
+  Kaggle: https://www.kaggle.com/mihaelabrankova
+  Tableau: https://public.tableau.com/app/profile/mihaela.brankova5845/vizzes
 
 # build settings
 markdown: kramdown

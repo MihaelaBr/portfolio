@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Sales Pipeline
-description: Data Engineering and Visualisation Project
+title: Netflix data: What to Watch
+description: R Programming and Visualisation Project
 image: assets/images/pic11.jpg
 nav-menu: false
 ---

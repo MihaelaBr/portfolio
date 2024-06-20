@@ -1,5 +1,5 @@
 ---
-layout: allposts
+layout: page
 title: Recent projects
 landing-title: 'Recent projects'
 nav-menu: true

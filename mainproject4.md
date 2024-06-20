@@ -6,8 +6,11 @@ image: assets/images/pic10.jpg
 nav-menu: false
 ---
 
-Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.
+This was a small personal project inspired while exploring the vast dataset offerings in Kaggle. I found this pre-cleaned detailed dataset for Netflix movies and series for the years between 1980 and 2021 and I was excited to see what recommendations I could get by answering the following questions:
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.
-
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
+1. Which movies and series are in the top 5 rated for each decade with genre information?
+2. Which movies and series are number 1 for each year with genre information?
+3. Who are the actors starring these movies in series?
+4. Everything has to be presented as interactive charts in one dashboard.
+   
+As a cinephile who watches many movies and tv series I was interested in learning what is good on Netflix and what is not so interesting based on IMDB scoring in different genres and organized by years. I also did an analysis on the famous actors represented in the top movies and series in the dataset.

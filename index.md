@@ -3,7 +3,7 @@ layout: home
 title: Home
 landing-title: 'Michaela Brankova | Data to Insights'
 description: null
-image: assets/images/mb_pink.png
+image: null
 author: null
 show_tile: false
 nav-menu: true

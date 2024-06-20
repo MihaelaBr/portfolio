@@ -6,7 +6,7 @@ description: Here is a collection of some of my recent projects.
 baseurl: "/portfolio" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: Michaela Brankova
-city: Zurich
+city: Zürich
 country: Switzerland
 
 # homepage tiles

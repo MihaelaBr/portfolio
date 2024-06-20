@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Spotify data - EDA
+description: Python Programming, Jupyter NB and Visualisations Project
 image: assets/images/pic01.jpg
 nav-menu: false
 ---

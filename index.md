@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Michaela'
+landing-title: 'Michaela Brankova | Data to Insights'
 description: null
 image: null
 author: null

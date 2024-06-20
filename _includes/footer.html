@@ -41,7 +41,8 @@
 					{{ site.country }}
 					{% endif %}
 				</span>
-				<ul class="icons">
+			</div>
+			<ul class="icons">
 				{% for key_value in site.socials %}
 					{% if key_value[1] %}
 						<li>
@@ -51,9 +52,7 @@
 						</li>
 					{% endif %}
 				{% endfor %}
-				</ul>
-			</div>
-
+			</ul>
 			<ul class="copyright">
 				<li>&copy; {{ site.title }} {{ site.subtitle }}</li>
 				<li>Design: <a href="https://html5up.net" target="_blank">HTML5 UP</a></li>

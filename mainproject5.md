@@ -2,7 +2,7 @@
 layout: post
 title: Web Scraping - Museums in Zürich
 description: Web Scraping, Python Programming and Visualisation Project
-image: assets/images/pic9.jpg
+image: assets/images/pic09.jpg
 nav-menu: false
 ---
 

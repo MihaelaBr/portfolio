@@ -5,7 +5,7 @@ landing-title: 'Michaela Brankova | Data to Insights'
 description: null
 image: null
 author: null
-show_tile: false
+show_tile: true
 nav-menu: true
 ---
 

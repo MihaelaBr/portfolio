@@ -1,5 +1,5 @@
 ---
-title: Capstone Project - Bike Sharing Services Success
+title: 'Capstone Project <br /> Bike Sharing Services Success'
 layout: landing
 description: 'Google Data Analytics Certificate <br />Data Analytics, SQL, Visualisation project.'
 image: assets/images/pic07.jpg

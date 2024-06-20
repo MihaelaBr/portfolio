@@ -1,7 +1,7 @@
 ---
 title: Capstone Project - Bike Sharing Services Success
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: 'Case study project for Google Data Analytics Certificate <br />Data Analytics, SQL, Visualisation project.'
 image: assets/images/pic07.jpg
 nav-menu: false
 ---

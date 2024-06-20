@@ -1,8 +1,8 @@
 # site settings
 title: Michaela Brankova
-subtitle: by HTML5 UP
+subtitle: Portfolio
 email: mi.brankova@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+description: Here is a collection of some of my recent projects.
 baseurl: "/portfolio2" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: Michaela Brankova

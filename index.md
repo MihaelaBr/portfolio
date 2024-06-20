@@ -6,6 +6,7 @@ description: null
 image: null
 author: null
 show_tile: false
+nav-menu: true
 ---
 
 I seek to uncover the secrets of the data I work with and sometimes engineer 

@@ -21,28 +21,26 @@
 				</ul>
 			</form>
 		</section>
-		<section class="split">
-			<section>
-				<div class="contact-method">
-					<span class="icon alt fa-home"></span>
-					<h3>Location</h3>
-					<span>
-					{% if site.city %}
-					    {{ site.city }},
-					{% endif %}
-					{% if site.country %}
-					    {{ site.country }}
-					{% endif %}
-					</span>
-				</div>
-			</section>
-		</section>
 	</div>
 </section>
 
 <!-- Footer -->
 	<footer id="footer">
 		<div class="inner">
+			<section>
+				<div class="contact-method">
+					<span class="icon alt fa-home"></span>
+					<span>
+					{% if site.city %}
+					    {{ site.city }},
+					{% endif %}
+					{% if site.country %}
+					    {{ site.country }}
+						{% endif %}
+						</span>
+				</div>
+			</section>
+			<section class="split">
 			<ul class="icons">
 				{% for key_value in site.socials %}
 					{% if key_value[1] %}
@@ -54,12 +52,14 @@
 					{% endif %}
 				{% endfor %}
 			</ul>
-			<ul class="copyright">
-				<li>&copy; {{ site.title }} {{ site.subtitle }}</li>
-				<li>Design: <a href="https://html5up.net" target="_blank">HTML5 UP</a></li>
-				<li>Jekyll integration: <a href="https://github.com/andrewbanchich" target="_blank">Andrew Banchich</a></li>
-
-			</ul>
+			</section>
+			<section>
+				<ul class="copyright">
+					<li>&copy; {{ site.title }} {{ site.subtitle }}</li>
+					<li>Design: <a href="https://html5up.net" target="_blank">HTML5 UP</a></li>
+					<li>Jekyll integration: <a href="https://github.com/andrewbanchich" target="_blank">Andrew Banchich</a></li>
+				</ul>
+			</section>
 		</div>
 	</footer>
 

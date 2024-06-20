@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Elements
+title: Spotify data - EDA
 image: assets/images/pic01.jpg
 nav-menu: false
-show-tile: false
 ---
 
 <!-- Main -->

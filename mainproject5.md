@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Sales Pipeline
-description: Data Engineering and Visualisation Project
-image: assets/images/pic11.jpg
+title: Web Scraping - Museums in Zürich
+description: Web Scraping, Python Programming and Visualisation Project
+image: assets/images/pic7.jpg
 nav-menu: false
 ---
 

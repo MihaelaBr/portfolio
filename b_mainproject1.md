@@ -1,7 +1,7 @@
 ---
-title: 'Capstone Project <br /> Bike Sharing Services Success'
+title: 'Spotify Data - EDA'
 layout: landing
-description: 'Google Data Analytics Certificate <br />Data Analytics, SQL and Visualisation project'
+description: 'Python Programming, Jupyter NB and Visualisation project'
 image: assets/images/pic07.jpg
 nav-menu: false
 ---

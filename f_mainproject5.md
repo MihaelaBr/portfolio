@@ -15,7 +15,7 @@ nav-menu: false
 		<header class="major">
 			<h2>About the project</h2>
 		</header>
-		<p>This Web Scraping and Visualisations project was created using Python and Beautiful Soup and later in Tableau using the data for museums from the official Zuerich.com page, where all tourist information for the city can be found.</p>
+		<p>This Web Scraping and Visualisations project was created using Python and Beautiful Soup and later in Tableau using the data for museums from the official zuercher-museen.ch/museen page, where all tourist information for the city can be found.</p>
 	</div>
 </section>
 

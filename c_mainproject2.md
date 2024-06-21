@@ -29,7 +29,7 @@ nav-menu: false
 				<header class="major">
 					<h3>Data and process</h3>
 				</header>
-				<p>Data is initially collected in Jira from the Sales Representatives. It is ingested in Google BigQuery using Jira API solution, where it is prepared and transformed using SQL and then connected with Looker Studio (formerly Google Data Studio) to create the visualisations and multiple dashboard pages.</p>
+				<p>Data is initially collected in Jira from the Sales Representatives. It is ingested in Google BigQuery using Jira API solution, where it is prepared and transformed using SQL and then connected with Looker Studio (formerly Google Data Studio) to create the visualisations and multiple dashboard pages. The SQL code as well as links to useful information for the project was put in a github repository for reference.</p>
 			</div>
 		</div>
 	</section>
@@ -45,6 +45,7 @@ nav-menu: false
 				<p>The pages from the dashboard are used by management and C-level executives to evaluate the current leads and this part of the work of the Sales Representatives. </p>
 				<ul class="actions">
 					<li>
+						<a href="generic.html" class="button">GitHub Repo</a>
 						<a href="generic.html" class="button">Looker Studio Dashboard</a>
 					</li>
 				</ul>

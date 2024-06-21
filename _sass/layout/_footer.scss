@@ -41,8 +41,8 @@
 		}
 		.contact-icons-container {
 			display: flex;
-			align-items: left;
-			justify-content: left;
+			align-items: center;
+			justify-content: flex-start;
 			gap: 100px; // Adjust the spacing as needed
 		}
 	}

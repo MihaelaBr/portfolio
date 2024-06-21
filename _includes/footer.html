@@ -31,28 +31,30 @@
 <!-- Footer -->
 	<footer id="footer">
 		<div class="inner">
-			<div class="contact-method">
-				<span class="icon alt fa-map-marker"></span>
-				<span>
-				{% if site.city %}
-					{{ site.city }},
-				{% endif %}
-				{% if site.country %}
-					{{ site.country }}
+			<div class="contact-icons-container">
+				<div class="contact-method">
+					<span class="icon alt fa-map-marker"></span>
+					<span>
+					{% if site.city %}
+						{{ site.city }},
 					{% endif %}
-				</span>
+					{% if site.country %}
+						{{ site.country }}
+						{% endif %}
+					</span>
+				</div>
+				<ul class="icons">
+					{% for key_value in site.socials %}
+						{% if key_value[1] %}
+							<li>
+								<a href="{{ key_value[1] }}" class="icon alt fa-{{ key_value[0] | downcase }}" target="_blank" rel="noopener noreferrer" aria-label="{{ key_value[0] }}">
+									<span class="label">{{ key_value[0] }}</span>
+								</a>
+							</li>
+						{% endif %}
+					{% endfor %}
+				</ul>
 			</div>
-			<ul class="icons">
-				{% for key_value in site.socials %}
-					{% if key_value[1] %}
-						<li>
-							<a href="{{ key_value[1] }}" class="icon alt fa-{{ key_value[0] | downcase }}" target="_blank" rel="noopener noreferrer" aria-label="{{ key_value[0] }}">
-								<span class="label">{{ key_value[0] }}</span>
-							</a>
-						</li>
-					{% endif %}
-				{% endfor %}
-			</ul>
 			<ul class="copyright">
 				<li>&copy; {{ site.title }} {{ site.subtitle }}</li>
 				<li>Design: <a href="https://html5up.net" target="_blank">HTML5 UP</a></li>

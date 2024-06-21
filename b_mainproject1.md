@@ -45,10 +45,10 @@ nav-menu: false
 				</header>
 				<p>The clean Jupyter Notebook with visualisations in it as well as additional information and the used data without PII was added to a github repository (link below). The created in Tableau Public Dashboard can be accessed through the second link below. </p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">GitHub repo</a></li>
-				</ul>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Tableau Dashboard</a></li>
+					<li>
+						<a href="generic.html" class="button">GitHub repo</a>
+						<a href="generic.html" class="button">Tableau Dashboard</a>
+					</li>
 				</ul>
 			</div>
 		</div>

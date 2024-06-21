@@ -48,11 +48,11 @@ nav-menu: false
 				<header class="major">
 					<h3>Results</h3>
 				</header>
-				<p>The pages from the dashboard are used by management and C-level executives to evaluate the current leads and this part of the work of the Sales Representatives. </p>
+				<p>R programming Kaggle and a Dashboard in Tableau Public. </p>
 				<ul class="actions">
 					<li>
-						<a href="generic.html" class="button">GitHub Repo</a>
-						<a href="generic.html" class="button">Looker Studio Dashboard</a>
+						<a href="generic.html" class="button">Kaggle</a>
+						<a href="generic.html" class="button">Tableau Public Dashboard</a>
 					</li>
 				</ul>
 			</div>

@@ -55,7 +55,7 @@ nav-menu: false
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{{ site.baseurl }}/ assets/images/pic09.jpg" alt="" data-position="top center" />
+			<img src="{{ site.baseurl }}/assets/images/pic09.jpg" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -68,11 +68,6 @@ nav-menu: false
 				</ul>
 			</div>
 		</div>
-	</section>
-	<section>
-		<a href="generic.html" class="image">
-			<img src="{{ site.baseurl }}/assets/images/pic10.jpg" alt="" data-position="25% 25%" />
-		</a>
 	</section>
 </section>
 

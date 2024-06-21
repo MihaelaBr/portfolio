@@ -13,7 +13,7 @@ nav-menu: false
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>About the project</h2>
+			<h2>Brief Overview</h2>
 		</header>
 		<p>This was a personal project for Exploratory Data Analysis (EDA) and Visualisations created in Jupyter Notebooks and later in Tableau using the data from my personal Spotify account.</p>
 	</div>

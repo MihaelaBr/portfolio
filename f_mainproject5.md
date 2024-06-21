@@ -2,7 +2,7 @@
 title: Web Scraping - Museums in Zürich
 layout: landing
 description: Web Scraping, Python Programming and Visualisation Project
-image: assets/images/pic09.jpg
+image: assets/images/2022_museum_rietberg_jpeg
 nav-menu: false
 ---
 

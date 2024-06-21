@@ -12,7 +12,7 @@ nav-menu: false
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>About the project</h2>
+			<h2>Brief Overview</h2>
 		</header>
 		<p>This is a Sales Pipeline Dashboards project for a Cloud Services company called Cloud Office, where I work at. All PII is edited out.</p>
 	</div>

@@ -62,7 +62,7 @@ nav-menu: false
 				<header class="major">
 					<h3>Inspiration</h3>
 				</header>
-				<p>The project was inspired by a Women in Data Science (WiDS) Workshop on using Jupyter Notebooks for data analysis and visualisations for Spotify data.</p>
+				<p>The project was inspired by a Women in Data Science (WiDS) Workshop on using Jupyter Notebooks for data analysis and visualisations for Spotify data. I used the initial Jupyter Notebook from the link as a template to work with my own data but built ontop of it in terms of visualisations features, metrics used and general analysis. </p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">WiDS Workshop</a></li>
 				</ul>

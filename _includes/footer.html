@@ -32,17 +32,6 @@
 	<footer id="footer">
 		<div class="inner">
 			<div class="contact-icons-container">
-				<div class="contact-method">
-					<span class="icon alt fa-map-marker"></span>
-					<span>
-					{% if site.city %}
-						{{ site.city }},
-					{% endif %}
-					{% if site.country %}
-						{{ site.country }}
-						{% endif %}
-					</span>
-				</div>
 				<ul class="icons">
 					{% for key_value in site.socials %}
 						{% if key_value[1] %}
@@ -54,6 +43,17 @@
 						{% endif %}
 					{% endfor %}
 				</ul>
+				<div class="contact-method">
+					<span class="icon alt fa-map-marker"></span>
+					<span>
+					{% if site.city %}
+						{{ site.city }},
+					{% endif %}
+					{% if site.country %}
+						{{ site.country }}
+						{% endif %}
+					</span>
+				</div>
 			</div>
 			<ul class="copyright">
 				<li>&copy; {{ site.title }} {{ site.subtitle }}</li>

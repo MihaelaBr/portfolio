@@ -1,7 +1,7 @@
 ---
 title: Sales Pipeline
 layout: landing
-description: Data Engineering and Visualisation Project
+description: Data Engineering, SQL and Visualisation Project
 image: assets/images/pic11.jpg
 nav-menu: false
 ---

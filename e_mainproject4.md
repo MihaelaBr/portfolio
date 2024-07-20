@@ -52,7 +52,7 @@ nav-menu: false
 				<ul class="actions">
 					<li>
 						<a href="generic.html" class="button">Kaggle</a>
-						<a href="generic.html" class="button">Tableau Public Dashboard</a>
+						<a href="generic.html" class="button">Tableau</a>
 					</li>
 				</ul>
 			</div>

@@ -2,7 +2,7 @@
 title: 'Capstone Project <br /> Bike Sharing Services Success'
 layout: landing
 description: 'Google Data Analytics Certificate <br />Data Analytics, SQL and Visualisation project'
-image: assets/images/pic07.jpg
+image: assets/images/various-bicycles-rack-sunlight-available-rent.jpg
 nav-menu: false
 ---
 

@@ -65,7 +65,7 @@ Data quality and structure was assessed using SQL on a sample 1 month of the dat
 				</header>
 				<p>After preparing and cleaning the data it was ingested into Tableau for further analysis and visualisations preparation. The results are a data cleaning process in SQL, published in the GitHub repo for this project and a Tableau Public Dashboard with two separate pages for Stations Analysis and Time-series Analysis.</p>
 				<ul class="actions">
-					<li>a href="https://public.tableau.com/views/CyclisticCaseStudy_17210605199230/CyclisticCaseStudy?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" class="button">Tableau Public Dashboard</a></li>
+					<li><a href="https://public.tableau.com/views/CyclisticCaseStudy_17210605199230/CyclisticCaseStudy?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" class="button next">Tableau Public Dashboard</a></li>
 				</ul>
 			</div>
 		</div>

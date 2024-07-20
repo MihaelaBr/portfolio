@@ -18,6 +18,6 @@ In this Portfolio you can see a few of my data and vizualisation projects create
 topics, some that have a special focus on the urban and natural environment, and also a few that 
 include personal interests like music and movies.
 
-My strenghts are SQL, Databases, LookML and vizualisations in most of the Business Intelligence
-and Geo Information Systems tools but I also enjoy working on improving my Python programming, 
-ETL/ELT and pipeline building skills as well. 
+My strenghts are SQL, Cloud DWH, Dashboards and Visualisations in most of the Business Intelligence
+and Geo Information Systems tools. I enjoy very much working on improving my Python programming, 
+ETL/ELT pipeline building skills as well. 

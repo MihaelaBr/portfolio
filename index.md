@@ -19,5 +19,5 @@ topics, some that have a special focus on the urban and natural environment, and
 include personal interests like music and movies.
 
 My strenghts are SQL, Cloud DWH, Dashboards and Visualisations in most of the Business Intelligence
-and Geo Information Systems tools. I enjoy very much working on improving my Python programming, 
+and Geo Information Systems tools. I enjoy very much working on improving my Python and R programming, 
 ETL/ELT pipeline building skills as well. 

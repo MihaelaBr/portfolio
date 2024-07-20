@@ -19,9 +19,9 @@ tiles-count: 6
 # You need to restart jekyll for changes to have an effect
 socials:
   GitHub: https://github.com/mihaelabr
-  LinkedIn: https://www.linkedin.com/in/mihaela-brankova
-  Kaggle: https://www.kaggle.com/mihaelabrankova
-  Salesforce: https://public.tableau.com/app/profile/mihaela.brankova5845/vizzes
+  LinkedIn: https://www.linkedin.com/in/michaela-brankova
+  kaggle: https://www.kaggle.com/michaelabrankova
+  salesforce: https://public.tableau.com/app/profile/mihaela.brankova5845/vizzes
 
 # build settings
 markdown: kramdown

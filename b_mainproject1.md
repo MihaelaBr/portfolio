@@ -15,7 +15,7 @@ nav-menu: true
 		<header class="major">
 			<h2>Brief Overview</h2>
 		</header>
-		<p>This was a personal project for Exploratory Data Analysis (EDA) and Visualisations created in Jupyter Notebooks and later in Tableau using the data from my personal Spotify account.</p>
+		<p>This was a personal project for Exploratory Data Analysis (EDA) and Visualisations created in Jupyter Notebooks using the data from my personal Spotify account.</p>
 	</div>
 </section>
 
@@ -47,7 +47,6 @@ nav-menu: true
 				<ul class="actions">
 					<li>
 						<a href="generic.html" class="button">GitHub repo</a>
-						<a href="generic.html" class="button">Tableau Dashboard</a>
 					</li>
 				</ul>
 			</div>
@@ -62,7 +61,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Inspiration</h3>
 				</header>
-				<p>The project was inspired by a Women in Data Science (WiDS) Workshop on using Jupyter Notebooks for data analysis and visualisations for Spotify data. I used the initial Jupyter Notebook from the link as a template to work with my own data but built ontop of it in terms of visualisations features, metrics used and general analysis. </p>
+				<p>The project was inspired by a Women in Data Science (WiDS) Workshop on using Jupyter Notebooks for data analysis and visualisations for Spotify data. I used the initial Jupyter Notebook from the link as an initial template to work with my own data but built on top of it in terms of visualisations features, metrics used and general analysis. </p>
 				<ul class="actions">
 					<li><a href="https://youtu.be/2zaGRy54SV8?si=QNzIRVmkHMug-Sbx" class="button" target="_blank">WiDS Workshop</a></li>
 				</ul>

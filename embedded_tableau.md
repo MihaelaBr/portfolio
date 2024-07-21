@@ -6,7 +6,7 @@ image: none
 nav-menu: true
 ---
 
-This view is embedded (fully interactive and synchronized with the live data) from the Tableau Public Dashboards for my Bike Sharing Services Success project.
+This view is embedded, fully interactive and synchronized with the live data, from the Tableau Public Dashboards for my Bike Sharing Services Success project.
 
 <div class='tableauPlaceholder' id='viz1721557101381' style='position: relative'>
   <noscript>

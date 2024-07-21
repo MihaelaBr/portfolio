@@ -14,7 +14,7 @@ nav-menu: false
 		<header class="major">
 			<h2>Brief Overview</h2>
 		</header>
-		<p>This is a Sales Pipeline Dashboards project for a Cloud Services company called Cloud Office, where I work at. All PII is edited out.</p>
+		<p>This is a Sales Pipeline Dashboards project for a Cloud Services company called Cloud Office, where I work at. All company data and any PII is edited out.</p>
 	</div>
 </section>
 

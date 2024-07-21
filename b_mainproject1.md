@@ -30,7 +30,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Data and process</h3>
 				</header>
-				<p>Data was provided by Spotify after an official request in April 2024. All initial files provided by Spotify came in JSON format, so in order to have a clearer idea of what is inside the data 1 main file with my account's music streaming history was converted to XSLX format. It was then quickly assessed and cleaned inside Google Sheets. After that the file's data was loaded in a Jupyter Notebook where it went through several ... using pandas, seaborn and ... Python Libraries. The same data was used to make a dashboard for this project in Tableau Public.</p>
+				<p>Data was provided by Spotify after an official request in April 2024. All initial files provided by Spotify came in JSON format, so in order to have a clearer idea of what is inside the data 1 main file with my account's music streaming history was converted to XSLX format. It was then quickly assessed and cleaned inside Google Sheets. After that the file's data was loaded in a Jupyter Notebook where it went through several steps of processing using pandas, matplotlib, numpy and seaborn Python Libraries. </p>
 			</div>
 		</div>
 	</section>
@@ -43,7 +43,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Results</h3>
 				</header>
-				<p>The clean Jupyter Notebook with visualisations in it as well as additional information and the used data without PII was added to a github repository (link below). The created in Tableau Public Dashboard can be accessed through the second link below. </p>
+				<p>The clean Jupyter Notebook with visualisations in it as well as additional information and the used data without PII was added to a github repository (link below). </p>
 				<ul class="actions">
 					<li>
 						<a href="generic.html" class="button">GitHub repo</a>

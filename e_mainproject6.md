@@ -1,7 +1,7 @@
 ---
 title: Netflix data - What to Watch
 layout: landing
-description: R Programming and Visualisation Project
+description: Coming Soon - R Programming and Visualisation Project
 image: assets/images/pic10.jpg
 nav-menu: false
 ---

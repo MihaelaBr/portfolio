@@ -1,11 +1,10 @@
-Portfolio 
-Michaela Brankova
+#Portfolio Michaela Brankova
 
 Here is the repository for my data professional portfolio webpage.
 
 # Credits
 
-# Forty - Jekyll Theme
+Forty - Jekyll Theme
 
 A Jekyll version of the "Forty" theme by [HTML5 UP](https://html5up.net/).  
 

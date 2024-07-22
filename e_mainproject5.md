@@ -46,13 +46,13 @@ nav-menu: false
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Results</h3>
+					<h3>Expected Results</h3>
 				</header>
 				<p>R programming Kaggle and a Dashboard in Tableau Public. </p>
 				<ul class="actions">
 					<li>
-						<a href="generic.html" class="button">Kaggle</a>
-						<a href="generic.html" class="button">Tableau</a>
+						<a href="https://www.kaggle.com/mihaelabrankova" class="button">Kaggle</a>
+						<a href="https://public.tableau.com/app/profile/mihaela.brankova5845/vizzes" class="button">Tableau</a>
 					</li>
 				</ul>
 			</div>

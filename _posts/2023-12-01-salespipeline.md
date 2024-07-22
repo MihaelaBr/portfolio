@@ -2,7 +2,7 @@
 layout: post
 title: Sales Leads Pipeline
 description: Data Engineering, SQL and Visualisations project
-image: assets/images/pic02.jpg
+image: assets/images/Sales Pipeline Page2.jpeg
 ---
 
 This is a Sales Pipeline Dashboards project for a Cloud Services company called Cloud Office, where I work at. All PII is edited out. 

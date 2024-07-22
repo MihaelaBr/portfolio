@@ -1,4 +1,4 @@
-#Portfolio Michaela Brankova
+# Portfolio Michaela Brankova
 
 Here is the repository for my data professional portfolio webpage.
 

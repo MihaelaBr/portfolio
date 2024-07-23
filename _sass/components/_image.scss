@@ -78,7 +78,7 @@ img {
             			left: 0;
             			width: 100%;
             			height: 100%;
-            			background: rgba(255, 255, 255, 0.5); // Semi-transparent overlay
+            			background-color: transparentize(_palette(bg), 0.75); // Semi-transparent overlay
             			pointer-events: none; // Allows interactions to pass through
         		}
     		}

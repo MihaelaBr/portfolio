@@ -21,8 +21,8 @@ nav-menu: false
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
-			<img src="{{ site.baseurl }}/assets/images/pic08.jpg" alt="" data-position="center center" />
+		<a href="embedded_pdf_sales.html" class="image">
+			<img src="{{ site.baseurl }}assets/images/Sales_Pipeline_db2.png" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -34,8 +34,8 @@ nav-menu: false
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
-			<img src="{{ site.baseurl }}/assets/images/pic08.jpg" alt="" data-position="center center" />
+		<a href="embedded_pdf_sales.html" class="image">
+			<img src="{{ site.baseurl }}assets/images/Sales_Pipeline_db5.png" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">

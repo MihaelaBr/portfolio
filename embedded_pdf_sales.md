@@ -13,6 +13,6 @@ nav-menu: true
     <title>Sales Pipeline Looker Studio Dashboards</title>
 </head>
 <body>
-    <embed src="assets/pdfs/Portfolio_Sales_Pipeline.pdf" type="application/pdf" width="100%" height="800px">
+    <embed src="assets/pdfs/Portfolio_Sales_Pipeline.pdf" type="application/pdf" width="120%" height="900px">
 </body>
 </html>

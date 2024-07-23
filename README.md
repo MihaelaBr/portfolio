@@ -1,8 +1,8 @@
 # Portfolio Michaela Brankova
 
-Here is the repository for my data professional portfolio webpage.
+This is the repository for my data professional portfolio webpage.
 
-# Credits
+## Credits
 
 Forty - Jekyll Theme
 

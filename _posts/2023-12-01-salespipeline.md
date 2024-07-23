@@ -5,8 +5,8 @@ description: Data Engineering, SQL and Visualisations project
 image: assets/images/bi_people_analyzing.jpg
 ---
 
-This is a Sales Pipeline Dashboards project for a Cloud Services company called Cloud Office, where I work at. All PII is edited out. 
+This Sales Pipeline Dashboards project was initially prepared for a client. The C-level executives and the manager of the Sales team needed Dashboards to follow the leads currently in the pipeline along with hystorical data with conversion rate. All company data and any PII is edited out.
 
-Data is initially collected in Jira from the Sales Representatives. It is ingested in Google BigQuery using Jira API solution, where it is prepared and transformed using SQL and then connected with Looker Studio (formerly Google Data Studio) to create the visualisations and multiple dashboard pages. 
+Data is initially collected in Jira from the Sales Representatives. It is ingested into Google BigQuery using an app from the Jira Marketplace called "BigQuery Connector for Jira", where it is prepared and transformed using SQL and then connected with Looker Studio (formerly Google Data Studio) to create the visualisations and multiple dashboard pages.
 
 The pages from the dashboard are used by management and C-level executives to evaluate the current leads and this part of the work of the Sales Representatives.

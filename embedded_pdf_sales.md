@@ -6,7 +6,6 @@ image: null
 nav-menu: true
 ---
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -14,7 +13,6 @@ nav-menu: true
     <title>Sales Pipeline Looker Studio Dashboards</title>
 </head>
 <body>
-    <h1>PDF Viewer</h1>
-    <embed src="assets/pdfs/Portfolio_Sales_Pipeline.pdf" type="application/pdf" width="100%" height="600px">
+    <embed src="assets/pdfs/Portfolio_Sales_Pipeline.pdf" type="application/pdf" width="100%" height="800px">
 </body>
 </html>

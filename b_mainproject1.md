@@ -43,7 +43,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Results</h3>
 				</header>
-				<p>The Python Jupyter Notebook, the cleaned and ready for analysis file (XLSX) as well as the raw data (JSON) was added to a github repository. It does not contain any PII. (link below). </p>
+				<p>The Python Jupyter Notebook, the cleaned and ready for analysis file (XLSX) as well as the raw data (JSON) was added to a github repository. It does not contain any PII.</p>
 				<ul class="actions">
 					<li>
 						<a href="https://github.com/MihaelaBr/Spotify-project" class="button" target="_blank">GitHub repo</a>

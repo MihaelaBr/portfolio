@@ -22,7 +22,7 @@ nav-menu: false
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
+		<a href="embedded_tableau.html" class="image">
 			<img src="{{ site.baseurl }}/assets/images/pic09.jpg" alt="" data-position="center center" />
 		</a>
 		<div class="content">

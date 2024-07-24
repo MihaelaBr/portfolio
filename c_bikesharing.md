@@ -23,7 +23,7 @@ nav-menu: false
 <section id="two" class="spotlights">
 	<section>
 		<a href="embedded_tableau.html" class="image">
-			<img src="{{ site.baseurl }}/assets/images/pic09.jpg" alt="" data-position="center center" />
+			<img src="{{ site.baseurl }}/assets/images/SQL_BQ_Bikesharing_Flow.png" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">

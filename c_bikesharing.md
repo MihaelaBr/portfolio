@@ -44,7 +44,7 @@ Data quality and structure was assessed using SQL on a sample 1 month of the dat
 				<header class="major">
 					<h3>Results</h3>
 				</header>
-				<p>After preparing and cleaning the data I ingested it into Tableau for further analysis and visualisations preparation. The results are a data cleaning process in SQL, published in the GitHub repo for this project and a Tableau Public Dashboard with two separate pages for Stations Analysis and Time-series Analysis. Click on the picture for a more detailed interactive view.</p>
+				<p>After preparing and cleaning the data I ingested it into Tableau for further analysis and visualisations preparation. Published in the project GitHub repo are data quality checks and cleaning process in SQL, along with a 1000 rows samples in CSV format for the raw and cleaned data respectively and a Tableau Public Dashboard with two separate pages for Stations Analysis and Time-series Analysis. The project finishes with recommendations for the marketing campaign to be created by the marketing team in order to convert more casual riders into members. Click on the picture for a more detailed interactive view of the dashboards.</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button" target="_blank">GitHub Repo</a></li>
 					<li><a href="https://public.tableau.com/views/CyclisticCaseStudy_17210605199230/CyclisticCaseStudy?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" class="button" target="_blank">Tableau</a></li>

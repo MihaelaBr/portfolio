@@ -12,6 +12,6 @@ nav-menu: true
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-    <embed src="assets/pdfs/Portfolio_Sales_Pipeline.pdf" type="application/pdf" width="110%" height="900px">
+    <embed src="assets/pdfs/Portfolio_Sales_Pipeline.pdf" type="application/pdf" width="105%" height="900px">
 </body>
 </html>

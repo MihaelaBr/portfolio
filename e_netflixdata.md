@@ -1,9 +1,9 @@
 ---
-title: Netflix data - What to Watch
+title: Coming Soon - Netflix data - What to Watch
 layout: landing
 description: Coming Soon - R Programming and Visualisation Project
 image: assets/images/top-view-camera-popcorn.jpg
-nav-menu: false
+nav-menu: true
 ---
 
 <!-- Main -->

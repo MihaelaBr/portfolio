@@ -346,6 +346,24 @@
 							$menu._hide();
 
 				});
+		
+			// Modal script for image popup
+        		var modal = document.getElementById("myModal");
+        		var span = document.getElementsByClassName("close")[0];
+
+        		span.onclick = function() {
+            		modal.style.display = "none";
+        		}
+
+       	 		var images = document.getElementsByClassName("popup-image");
+        		var modalImg = document.getElementById("img01");
+
+        		for (var i = 0; i < images.length; i++) {
+            		    images[i].onclick = function() {
+                	        modal.style.display = "block";
+	                        modalImg.src = this.src;
+            	            }
+        	    	}
 
 	});
 

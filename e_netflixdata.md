@@ -1,7 +1,7 @@
 ---
 title: Coming Soon - Netflix data
 layout: landing
-description: Coming Soon - R Programming and Visualisation Project
+description: R Programming and Visualisation Project
 image: assets/images/imgmain/top-view-camera-popcorn.jpg
 nav-menu: true
 ---

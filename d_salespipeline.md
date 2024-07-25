@@ -2,7 +2,7 @@
 title: Sales Leads Pipeline
 layout: landing
 description: Data Engineering, SQL and Visualisation Project
-image: assets/images/bi_people_analyzing.jpg
+image: assets/images/imgmain/bi_people_analyzing.jpg
 nav-menu: true
 ---
 <!-- Main -->
@@ -22,7 +22,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="embedded_pdf_sales.html" class="image">
-			<img src="{{ site.baseurl }}/assets/images/Sales_Pipeline_db2.png" alt="" data-position="center center" />
+			<img src="{{ site.baseurl }}/assets/images/imgsmall/Sales_Pipeline_db2.png" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -35,7 +35,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="embedded_pdf_sales.html" class="image">
-			<img src="{{ site.baseurl }}/assets/images/Sales_Pipeline_db5.png" alt="" data-position="center center" />
+			<img src="{{ site.baseurl }}/assets/images/imgsmall/Sales_Pipeline_db5.png" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">

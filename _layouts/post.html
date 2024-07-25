@@ -14,7 +14,7 @@
     
     
 <!-- Main -->
-<div id="main" class="alt">
+<div id="main" class="alt" role="main">
 
 <!-- One -->
 <section id="one">
@@ -23,11 +23,21 @@
 			<h1>{{ page.title }}</h1>
 			<h3>{{ page.description }}</h3>
 		</header>
-		{% if page.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ page.image }}" alt="" /></span>{% endif %}
+		{% if page.image %}
+		<span class="image main">
+			<img class="popup-image" src="{{ site.baseurl }}/{{ page.image }}" alt="{{ page.image_alt }}" />
+		</span>
+		{% endif %}
 		{{ content }}
 	</div>
 </section>
 
+</div>
+
+<!-- The Modal -->
+<div id="myModal" class="modal">
+	<span class="close">&times;</span>
+	<img class="modal-content" id="img01">
 </div>
 
     {% include footer.html %}

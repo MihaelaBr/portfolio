@@ -1,5 +1,5 @@
 ---
-title: Sales Pipeline
+title: Sales Leads Pipeline
 layout: landing
 description: Data Engineering, SQL and Visualisation Project
 image: assets/images/bi_people_analyzing.jpg
@@ -14,7 +14,7 @@ nav-menu: false
 		<header class="major">
 			<h2>Brief Overview</h2>
 		</header>
-		<p>This Sales Pipeline Dashboards project was initially prepared for a client. The C-level executives and the manager of the Sales team needed Dashboards to follow the leads currently in the pipeline along with hystorical data with conversion rate. All company data and any PII is edited out.</p>
+		<p>This Sales Pipeline Dashboards project was prepared for a client. The C-level executives and the manager of the Company' Sales team needed Dashboards to track the leads currently in the pipeline along with hystorical data with conversion rates. All company data and any PII is edited out.</p>
 	</div>
 </section>
 
@@ -29,7 +29,7 @@ nav-menu: false
 				<header class="major">
 					<h3>Data and process</h3>
 				</header>
-				<p>Data is initially collected in Jira from the Sales Representatives. It is ingested into Google BigQuery using an app from the Jira Marketplace called "BigQuery Connector for Jira", where it is prepared and transformed using SQL and then connected with Looker Studio (formerly Google Data Studio) to create the visualisations and multiple dashboard pages.</p>
+				<p>Data is initially collected in Jira from the Sales Representatives. It is ingested into Google BigQuery using an app from the Jira Marketplace called "BigQuery Connector for Jira", where it is prepared and transformed using SQL and then connected with Looker Studio (formerly Google Data Studio) to create the visualisations and multiple dashboard pages for Active and Closed leads, Weekly reporting by Sales and Technical Representatives.</p>
 			</div>
 		</div>
 	</section>

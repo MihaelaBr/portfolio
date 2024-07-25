@@ -3,7 +3,7 @@ layout: post
 title: Bike Sharing Services
 description: Data Analytics, SQL and Visualisation project
 image: none
-nav-menu: true
+nav-menu: false
 ---
 
 This view is embedded, fully interactive and synchronized with the live data, from the Tableau Public Dashboards for my Bike-Sharing Services project.

@@ -2,7 +2,7 @@
 layout: post
 title: Netflix data - What to watch?
 description: R Programming and Visualisation project
-image: assets/images/pic07.jpg
+image: assets/images/imgmain/top-view-camera-popcorn.jpg
 ---
 
 This was a small personal project inspired while exploring the vast dataset offerings in Kaggle. I found this pre-cleaned detailed dataset for Netflix movies and series for the years between 1980 and 2021 and I was excited to see what recommendations I could get by answering the following questions:

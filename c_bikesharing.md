@@ -2,7 +2,7 @@
 title: 'Bike-Sharing Services'
 layout: landing
 description: 'Google Data Analytics Certificate <br />Data Analytics, SQL and Visualisation project'
-image: assets/images/imgmain/various-bicycles-rack-sunlight-available-rent.jpg
+image: assets/images/imgmain/bike_shark.jpeg
 nav-menu: true
 ---
 

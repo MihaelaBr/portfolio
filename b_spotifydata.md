@@ -2,7 +2,7 @@
 title: 'Spotify Data - EDA'
 layout: landing
 description: 'Python Programming, Jupyter NB and Visualisation project'
-image: assets/images/imgmain/woman-holding-heaphones-head-form.jpg
+image: assets/images/imgmain/heaphones_spotify.jpg
 nav-menu: true
 ---
 

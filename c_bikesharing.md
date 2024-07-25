@@ -2,7 +2,7 @@
 title: 'Capstone Project <br /> Bike Sharing Services Success'
 layout: landing
 description: 'Google Data Analytics Certificate <br />Data Analytics, SQL and Visualisation project'
-image: assets/images/various-bicycles-rack-sunlight-available-rent.jpg
+image: assets/images/imgmain/various-bicycles-rack-sunlight-available-rent.jpg
 nav-menu: false
 ---
 
@@ -23,7 +23,7 @@ nav-menu: false
 <section id="two" class="spotlights">
 	<section>
 		<a href="https://github.com/MihaelaBr/Bike-sharing-project" class="image">
-			<img src="{{ site.baseurl }}/assets/images/SQL_BQ_Bikesharing_Flow.png" alt="" data-position="center center" />
+			<img src="{{ site.baseurl }}/assets/images/imgsmall/SQL_BQ_Bikesharing_Flow.png" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -37,7 +37,7 @@ Data quality and structure was assessed using SQL on a sample 1 month of the dat
 	</section>
 	<section>
 		<a href="embedded_tableau.html" class="image">
-			<img src="{{ site.baseurl }}/assets/images/Cyclistic Page 1.png" alt="" data-position="center center" />
+			<img src="{{ site.baseurl }}/assets/images/imgsmall/Cyclistic_Page1_small.png" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">

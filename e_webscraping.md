@@ -1,5 +1,5 @@
 ---
-title: Coming Soon - Web Scraping - Museums in Zürich
+title: Coming Soon - Museums in Zürich
 layout: landing
 description: Web Scraping, Python Programming and Visualisation Project
 image: assets/images/imgmain/2022_museum_rietberg.jpeg

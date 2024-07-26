@@ -2,7 +2,7 @@
 title: Sales Leads Pipeline
 layout: landing
 description: Data Engineering, SQL and Visualisation Project
-image: assets/images/imgmain/bi_people_analyzing.jpg
+image: assets/images/imgmain/behind_europaallee_mb.jpg
 nav-menu: true
 ---
 <!-- Main -->

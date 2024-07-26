@@ -346,26 +346,6 @@
 							$menu._hide();
 
 				});
-		
-			// Modal script for image popup
-        		var modal = document.getElementById("myModal");
-			var modalImg = document.getElementById('modal-img');
-        		var span = document.getElementsByClassName("close")[0];
-
-        		$('.popup-image').on('click', function() {
-            		    modal.style.display = 'block';
-            		    modalImg.src = this.src;
-        		});
-
-        		span.onclick = function() {
-            		    modal.style.display = 'none';
-        		};
-
-        		$(window).on('click', function(event) {
-            		    if (event.target == modal) {
-                		modal.style.display = 'none';
-            		    }
-        		});
 
 	});
 

@@ -2,7 +2,7 @@
 layout: post
 title: Bike Sharing Services
 description: Data Analytics, SQL and Visualisation project
-image: none
+image:
 nav-menu: false
 ---
 

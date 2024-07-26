@@ -5,7 +5,11 @@ description: Data Analytics, SQL and Visualisation project
 image: none
 nav-menu: false
 ---
-
+<ul class="actions">
+					<li>
+						<a href="c_bikesharing.html" class="button previous">Go Back</a>
+					</li>
+</ul>
 This view is embedded, fully interactive and synchronized with the live data, from the Tableau Public Dashboards for my Bike-Sharing Services project.
 
 <div class='tableauPlaceholder' id='viz1721557101381' style='position: relative'>

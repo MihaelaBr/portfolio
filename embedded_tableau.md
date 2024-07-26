@@ -1,8 +1,3 @@
-<ul class="actions">
-	<li>
-		<a href="c_bikesharing.html" class="button previous">Back</a>
-	</li>
-</ul>
 ---
 layout: post
 title: Bike Sharing Services
@@ -36,4 +31,10 @@ This view is embedded, fully interactive and synchronized with the live data, fr
   else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1600px';vizElement.style.height='927px';} 
   else { vizElement.style.width='100%';vizElement.style.height='1777px';} var scriptElement = document.createElement('script'); scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js'; vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
+
+<ul class="actions">
+	<li>
+		<a href="c_bikesharing.html" class="button previous">Back</a>
+	</li>
+</ul>
 

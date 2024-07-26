@@ -10,9 +10,16 @@ nav-menu: false
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<style>
+		iframe {
+			width: 100%;
+			height: 100vh;
+			border:none;
+			}
+	</style>
 </head>
 <body>
-    <embed src="assets/pdfs/Portfolio_Sales_Pipeline.pdf" type="application/pdf" width="105%" height="900px">
+    <iframe src="assets/pdfs/Portfolio_Sales_Pipeline.pdf" type="application/pdf"></iframe>
 </body>
 </html>
 

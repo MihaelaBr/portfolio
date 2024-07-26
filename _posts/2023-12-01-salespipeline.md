@@ -2,6 +2,7 @@
 layout: post
 title: Sales Leads Pipeline
 description: Data Engineering, SQL and Visualisations project
+href: d_salespipeline.html
 image: assets/images/imgmain/behind_europaallee_mb.jpg
 ---
 

@@ -2,6 +2,7 @@
 layout: post
 title: Capstone project - Bike Sharing Servicess Success
 description: Data Analytics, SQL and Visualisation project
+href: c_bikesharing.html
 image: assets/images/imgmain/Cyclistic_Case_Study_Page1.png
 ---
 

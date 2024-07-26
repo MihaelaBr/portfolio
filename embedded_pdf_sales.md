@@ -15,3 +15,9 @@ nav-menu: false
     <embed src="assets/pdfs/Portfolio_Sales_Pipeline.pdf" type="application/pdf" width="105%" height="900px">
 </body>
 </html>
+
+<ul class="actions">
+	<li>
+		<a href="d_salespipeline.html" class="button previous">Back</a>
+	</li>
+</ul>

@@ -25,7 +25,7 @@
 		</header>
 		{% if page.image %}
 		<span class="image main">
-			<img class="popup-image" src="{{ site.baseurl }}/{{ page.image }}" alt="{{ page.image_alt }}" />
+			<img src="{{ site.baseurl }}/{{ page.image }}" alt="" />
 		</span>
 		{% endif %}
 		{{ content }}
@@ -34,15 +34,7 @@
 
 </div>
 
-<!-- The Modal -->
-<div id="myModal" class="modal">
-	<span class="close">&times;</span>
-	<img class="modal-content" id="modal-img">
-</div>
-
     {% include footer.html %}
-
-    <script src="assets/js/main.js"></script>
 
 </body>
 

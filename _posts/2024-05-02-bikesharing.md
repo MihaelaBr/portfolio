@@ -3,7 +3,7 @@ layout: post
 title: Capstone project - Bike Sharing Servicess Success
 description: Data Analytics, SQL and Visualisation project
 image: assets/images/imgmain/Cyclistic_Case_Study_Page1.png
-href: c_bikesharing.html
+href: /c_bikesharing.html
 ---
 
 This Case Study on Bike-sharing services was a Capstone Project prepared during my Google Data Analytics Certificate studies in Coursera. Maximising the number of annual members is considered the key to the company’s future success which is why the marketing team is interested in analysing Cyclistic historical bike trip data to identify trends. The goal of this project is to understand how casual riders and annual members use Cyclistic (a fictional company) bikes differently. Data-backed recommendations are needed to create a new marketing strategy to convert casual riders into annual members.

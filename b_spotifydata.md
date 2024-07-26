@@ -22,7 +22,7 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
+		<a href="embedded_spotify_ipynb.html" class="image">
 			<img src="{{ site.baseurl }}/assets/images/pic08.jpg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -35,7 +35,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a href="embedded_spotify_ipynb.html" class="image">
 			<img src="{{ site.baseurl }}/assets/images/pic08.jpg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -53,7 +53,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a href="embedded_spotify_ipynb.html" class="image">
 			<img src="{{ site.baseurl }}/assets/images/pic09.jpg" alt="" data-position="top center" />
 		</a>
 		<div class="content">

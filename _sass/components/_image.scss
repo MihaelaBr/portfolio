@@ -78,50 +78,9 @@ img {
             			left: 0;
             			width: 100%;
             			height: 100%;
-            			background-color: transparentize(_palette(bg), 0.75); // Semi-transparent overlay
+            			background-color: transparentize(_palette(bg), 0.55); // Semi-transparent overlay
             			pointer-events: none; // Allows interactions to pass through
         		}
     		}
 	}
-/* Modal styles */
-.modal {
-    display: none;
-    position: fixed;
-    z-index: 1;
-    left: 0;
-    top: 0;
-    width: 100%;
-    height: 100%;
-    overflow: auto;
-    background-color: rgba(0,0,0,0.9);
-}
 
-.modal-content {
-    margin: auto;
-    display: block;
-    width: 80%;
-    max-width: 700px;
-}
-
-.close {
-    position: absolute;
-    top: 15px;
-    right: 35px;
-    color: #f1f1f1;
-    font-size: 40px;
-    font-weight: bold;
-    transition: 0.3s;
-}
-
-.close:hover,
-.close:focus {
-    color: #bbb;
-    text-decoration: none;
-    cursor: pointer;
-}
-
-@media only screen and (max-width: 700px) {
-    .modal-content {
-        width: 100%;
-    }
-}

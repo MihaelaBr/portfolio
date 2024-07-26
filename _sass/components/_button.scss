@@ -130,7 +130,7 @@
 			opacity: 0.25;
 		}
 		&.previous {
-  			padding-left: 4.5em;  
+  			padding-right: 4.5em;  
  			position: relative;
 
   			&:before, &:after {
@@ -142,8 +142,8 @@
     				display: block;
     				height: 100%;
     				position: absolute;
-    				left: 1.5em;  // Adjust position to the left
-    				top: 0;
+    				right: 1.5em;  
+    				top: 1.5em;
     				vertical-align: middle;
     				width: 36px;
   				}

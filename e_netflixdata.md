@@ -1,5 +1,5 @@
 ---
-title: Coming Soon - Netflix data
+title: In Progress - Netflix data
 layout: landing
 description: R Programming and Visualisation Project
 image: assets/images/imgmain/Lake_Luzern_mb.jpeg

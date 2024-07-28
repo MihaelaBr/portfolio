@@ -2,7 +2,7 @@
 title: 'Spotify Data - EDA'
 layout: landing
 description: 'Python Programming, Jupyter NB and Visualisation project'
-image: assets/images/imgmain/ZOA_concert_2022_mb.JPG
+image: assets/images/imgmain/ZOA_concert_2022_mb_bw.JPG
 nav-menu: true
 ---
 

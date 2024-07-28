@@ -14,7 +14,7 @@ nav-menu: true
 		<header class="major">
 			<h2>Brief Overview</h2>
 		</header>
-		<p>This Sales Pipeline Dashboards project was prepared for a client. The C-level executives and the manager of the Company' Sales team needed Dashboards to track the leads currently in the pipeline along with hystorical data with conversion rates. All company data and any PII is edited out.</p>
+		<p>This Sales Leads Pipeline Dashboards project was prepared for a client. The C-level executives and the Sales team manager needed Dashboards to track the leads currently in the pipeline along with hystorical data with conversion rates. All company data and any PII is edited out.</p>
 	</div>
 </section>
 
@@ -42,7 +42,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Results</h3>
 				</header>
-				<p>The pages from the dashboard are used by management and C-level executives to evaluate the current leads and this part of the work of the Sales Representatives. </p>
+				<p>The 6 pages from the dashboard are used by management and C-level executives to evaluate the current leads and this part of the work of the Sales and Tech Representatives. All Dashboards are regularly check for errors and are updated with the new data every day. The general dashboard structure is also changed if a new requirement comes from the Stakeholders.</p>
 				<ul class="actions">
 					<li>
 						<a href="embedded_pdf_sales.html" class="button">Looker Studio Dashboard</a>

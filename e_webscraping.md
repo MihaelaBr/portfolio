@@ -1,5 +1,5 @@
 ---
-title: Coming Soon - Museums in Zürich
+title: In Progress - Museums in Zürich
 layout: landing
 description: Web Scraping, Python Programming and Visualisation Project
 image: assets/images/imgmain/Rietberg_2022_mb.jpg

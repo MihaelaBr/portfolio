@@ -1,14 +1,26 @@
 # Portfolio Michaela Brankova
 
-This is the repository for my data professional portfolio webpage.
+This is the repository for my data professional portfolio webpage. Here you will find all my recent data projects on different topics.
+I decided to use GitHub Pages to host my page as it looked as the best solution so I chose a Jekyll Theme as a Template to start building my Portfolio Page.
+It turned into a full project as I felt the need to change the code to display the results of my work in the best way possible.
+My HTML, JavaScript, Git and SCSS skills got a quick improvement during the development of this webpage and I plan to keep improving them.
+
+# About me
+I seek to uncover the secrets of the data I work with and sometimes engineer it’s path and transformation to the vizualisation tools I use. My background is in 
+managing technical projects and working with geospatial data and maps. Excited about anything related to Data and Web Analytics, Data Engineering and Data Science (ML and GenAI), 
+Process automations and App development.
+
+In this Portfolio you can see a few of my data and vizualisation projects created around business topics, some that have a special focus on the urban and natural environment, 
+and also a few that include personal interests like music and movies.
+
+My strenghts are SQL, Cloud DWH, Dashboards and Visualisations in most of the Business Intelligence and Geo Information Systems tools. I enjoy very much working on improving my 
+Python and R programming, ETL/ELT pipeline building skills as well.
 
 ## Credits
 
 Forty - Jekyll Theme
 
 A Jekyll version of the "Forty" theme by [HTML5 UP](https://html5up.net/).  
-
-![Forty Theme](assets/images/forty.jpg "Forty Theme")
 
 Original README from HTML5 UP:
 

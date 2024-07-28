@@ -23,7 +23,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="embedded_spotify_ipynb.html" class="image">
-			<img src="{{ site.baseurl }}/assets/images/pic08.jpg" alt="" data-position="center center" />
+			<img src="{{ site.baseurl }}/assets/images/imgsmall/Spotify_import_data.png" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">

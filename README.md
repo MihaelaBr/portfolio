@@ -1,6 +1,6 @@
 # Portfolio Michaela Brankova
 
-This is the repository for my data professional portfolio webpage. Here you will find all my recent data projects on different topics.
+This is the repository for my professional portfolio webpage. Here you will find all my recent projects involving data on different topics.
 I decided to use GitHub Pages to host my page as it looked as the best solution so I chose a Jekyll Theme as a Template to start building my Portfolio Page.
 It turned into a full project as I felt the need to change the code to display the results of my work in the best way possible.
 My HTML, JavaScript, Git and SCSS skills got a quick improvement during the development of this webpage and I plan to keep improving them.

@@ -2,7 +2,7 @@
 layout: post
 title: Web scraping - Museums in Zürich
 description: Web Scraping, Python Programming and Visualisations project
-image: assets/images/imgmain/2022_museum_rietberg.jpeg
+image: assets/images/imgmain/Rietberg_2022_mb.jpg
 ---
 
 This Web Scraping and Visualisations project was created using Python and Beautiful Soup and later in Tableau using the data for museums from the official Zuerich.com page, where all tourist information for the city can be found. 

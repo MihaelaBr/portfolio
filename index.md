@@ -15,8 +15,8 @@ projects and working with geospatial data and maps. Excited about anything relat
 and Web Analytics, Data Engineering and Data Science (ML and GenAI), Process automations and App development.
 
 In this Portfolio you can see a few of my data and vizualisation projects created around business 
-topics, some that have a special focus on the urban and natural environment, and also a few that 
-include personal interests like music and movies.
+topics, some that have a special focus on the urban and natural environment, and a few that 
+include personal interests like music, art and movies.
 
 My strenghts are SQL, Cloud DWH, Dashboards and Visualisations in most of the Business Intelligence
 and Geo Information Systems tools. I enjoy very much working on improving my Python and R programming, 

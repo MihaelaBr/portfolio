@@ -3,7 +3,7 @@ layout: post
 title: Sales Leads Pipeline
 description: Data Engineering, SQL and Visualisations project
 image: "assets/images/imgsmall/Small_Sales_Pipeline_p2.png"
-href: /embedded_pdf_sales.html
+href: embedded_pdf_sales.html
 ---
 
 This Sales Pipeline Dashboards project was prepared for a client. The C-level executives and the manager of the Company' Sales team needed Dashboards to track the leads currently in the pipeline along with hystorical data with conversion rates. All company data and any PII is edited out.

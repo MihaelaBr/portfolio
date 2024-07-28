@@ -18,6 +18,8 @@ Python and R programming, ETL/ELT pipeline building skills as well.
 
 ## Credits
 
+All images in this repo, that are do not come from the Demo Template Images, are personal and proprietary.
+
 Forty - Jekyll Theme
 
 A Jekyll version of the "Forty" theme by [HTML5 UP](https://html5up.net/).  

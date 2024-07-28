@@ -15,7 +15,7 @@ nav-menu: true
 		<header class="major">
 			<h2>Brief Overview</h2>
 		</header>
-		<p>This is a personal project for Exploratory Data Analysis (EDA) and Visualisations created using Python Jupyter Notebooks with the data from my personal Spotify account.</p>
+		<p>This is a personal project for Exploratory Data Analysis (EDA) and Visualisations created using Python Jupyter Notebooks with the data from my personal Spotify account. I am a big fan of Spotify as someone who enjoys listening to music without having to necessarily make playlists in order to listen to the music I like, because Spotify makes that for me. The new music it suggests is usually very good but I was wondering what insights I could get by myself from my own data and because of that I decided to try and find out.</p>
 	</div>
 </section>
 

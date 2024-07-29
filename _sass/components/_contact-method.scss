@@ -36,4 +36,39 @@
 		h3 {
 			margin: 0 0 (_size(element-margin) * 0.25) 0;
 		}
+		@include breakpoint(small) {
+        		margin: 0 0 (_size(element-margin) * 0.75) 0;
+        		padding-left: _size(element-margin) * 0.75;
+
+       			.icon {
+            		    right: 1em; // Adjust positioning for smaller screens
+        		}
+
+        		.map {
+            		    margin-top: _size(element-margin) * 0.75;
+            		    padding: 0; // Ensure padding is appropriate
+
+            		    iframe {
+                	         height: 300px; // Adjust height for smaller screens
+            			}
+        		}
+    		}
+
+    		@include breakpoint(xsmall) {
+        		margin: 0 0 (_size(element-margin) * 0.5) 0;
+        		padding-left: _size(element-margin) * 0.5;
+
+        		.icon {
+            		    right: 0.5em; // Further adjust positioning
+        		}
+
+        		.map {
+            		    margin-top: _size(element-margin) * 0.5;
+               		    padding: 0; // Ensure padding is appropriate
+
+            		    iframe {
+                		height: 250px; // Further adjust height for mobile screens
+            			}
+        		}
+    		}
 	}

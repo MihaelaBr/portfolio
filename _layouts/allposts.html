@@ -26,8 +26,8 @@
 	    <h3>{{ post.description }}</h3>
 	  </header>
 	  {% if post.image %}
-		<span class="image fit">
-		  <a href="{{ post.href }}" class="image fit">
+		<span>
+		  <a href="{{ post.href }}" class="image">
 		  	<img src="{{ site.baseurl }}/{{ post.image }}" alt="" />
 		  </a></span>{% endif %}
 	  {% if post.date %}<p>{{ post.date | date: "%b %d, %Y" }}</p>{% endif %}

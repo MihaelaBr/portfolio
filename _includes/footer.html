@@ -23,15 +23,7 @@
 		</section>
 		<section class="split">
 			<section>
-				<span class="image protected"><img src="assets/images/mb_rietberg_small.png" alt="Protected Photo" /></span>
-			</section>
-	</div>
-</section>
-
-<!-- Footer -->
-	<footer id="footer">
-		<div class="inner">
-			<ul class="icons">
+			    <ul class="icons">
 				{% for key_value in site.socials %}
 					{% if key_value[1] %}
 						<li>
@@ -41,8 +33,8 @@
 						</li>
 					{% endif %}
 				{% endfor %}
-			</ul>
-			<div class="contact-method">
+			    </ul>
+			    <div class="contact-method">
 				<span class="icon alt fa-map-marker"></span>
 				<span>
 				{% if site.city %}
@@ -52,7 +44,14 @@
 					{{ site.country }}
 					{% endif %}
 				</span>
-			</div>
+			    </div>
+			</section>
+	</div>
+</section>
+
+<!-- Footer -->
+	<footer id="footer">
+		<div class="inner">
 			<ul class="copyright">
 				<li>&copy; {{ site.title }} {{ site.subtitle }}</li>
 				<li>&copy; {{ site.rights }} </li>

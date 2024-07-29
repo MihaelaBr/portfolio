@@ -6,7 +6,8 @@ description: Here is a collection of some of my recent data projects.
 baseurl: "/portfolio" # the subpath of your site, e.g. /blog
 url: "https://mihaelabr.github.io" # the base hostname & protocol for your site
 author: Michaela Brankova
-city: Zürich
+city: Adliswil
+canton: Zürich
 country: Switzerland
 rights: All rights reserved
 

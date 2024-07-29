@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Web scraping - Museums in Zürich
+title: In Progress Web scraping - Museums in Zürich
 description: Web Scraping, Python Programming and Visualisations project
 image: assets/images/imgmain/Rietberg_2022_mb.jpg
 ---

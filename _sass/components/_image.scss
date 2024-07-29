@@ -68,6 +68,7 @@ img {
 
        			img {
             			display: block;
+				margin: 0 0 _size(element-margin) 0;
             			pointer-events: none;  // Prevents interaction with the image
         		}
 

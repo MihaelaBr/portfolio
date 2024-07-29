@@ -36,7 +36,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="embedded_spotify_ipynb.html" class="image">
-			<img src="{{ site.baseurl }}/assets/images/imgsmall/Spotify_top10_songs.png" alt="" data-position="center center" />
+			<img src="{{ site.baseurl }}/assets/images/imgsmall/Spotify_top10_songs.png" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -54,7 +54,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="embedded_spotify_ipynb.html" class="image">
-			<img src="{{ site.baseurl }}/assets/images/imgsmall/Spotify_to20_artists.png" alt="" data-position="top center" />
+			<img src="{{ site.baseurl }}/assets/images/imgsmall/Spotify_to20_artists.png" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">

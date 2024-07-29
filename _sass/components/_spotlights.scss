@@ -54,7 +54,8 @@
             					display: block;
 						border-radius: 0;
 						height: 100%;
-            					pointer-events: none;  
+            					pointer-events: none;
+						object-fit: contain;
         				}
 
        			 		&::after {

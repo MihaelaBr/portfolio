@@ -17,6 +17,20 @@
 			top: 50%;
 			transform: translateY(-50%);
 		}
+		.map {
+    			margin-top: _size(element-margin);
+    			padding: _size(element-margin); 
+    			display: flex;
+		    	justify-content: center; 
+    			align-items: center; 
+    			width: 100%; 
+    			box-sizing: border-box; 
+
+    			iframe {
+      			    max-width: 100%; /* Make iframe responsive */
+      			    height: 300px; /* Adjust height as needed */
+    			}
+  		}
 
 		h3 {
 			margin: 0 0 (_size(element-margin) * 0.25) 0;

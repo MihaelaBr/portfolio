@@ -37,7 +37,7 @@ Data quality and structure was assessed using SQL on a sample 1 month of the dat
 	</section>
 	<section>
 		<a href="embedded_tableau_cyclistic.html" class="image">
-			<img src="{{ site.baseurl }}/assets/images/imgsmall/Cyclistic_Page1_small.png" alt="" data-position="top center" />
+			<img src="{{ site.baseurl }}/assets/images/imgsmall/Cyclistic_Page1_small.png" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">

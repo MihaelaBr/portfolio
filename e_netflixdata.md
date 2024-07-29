@@ -41,7 +41,7 @@ nav-menu: false
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{{ site.baseurl }}/assets/images/pic05.jpg" alt="" data-position="center center" />
+			<img src="{{ site.baseurl }}/assets/images/pic06.jpg" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">

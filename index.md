@@ -20,4 +20,4 @@ include personal interests like music, art and movies.
 
 My strenghts are SQL, Cloud DWH, Dashboards and Visualisations in most of the Business Intelligence
 and Geo Information Systems tools. I enjoy very much working on improving my Python and R programming, 
-ETL/ELT pipeline building skills as well. 
+ETL/ELT pipeline building skills. 

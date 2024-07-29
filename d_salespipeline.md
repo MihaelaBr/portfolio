@@ -35,7 +35,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="embedded_pdf_sales.html" class="image">
-			<img src="{{ site.baseurl }}/assets/images/imgsmall/Sales_Pipeline_db5.png" alt="" data-position="center center" />
+			<img src="{{ site.baseurl }}/assets/images/imgsmall/Sales_Pipeline_db5.png" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">

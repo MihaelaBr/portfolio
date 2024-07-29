@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Netflix data - What to watch?
+title: In Progress Netflix data - What to watch?
 description: R Programming and Visualisation project
 image: assets/images/imgmain/Lake_Luzern_mb.jpeg
 href: "https://www.kaggle.com/code/mihaelabrankova/netflix-data-what-to-watch/edit"

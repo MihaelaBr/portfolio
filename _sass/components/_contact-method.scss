@@ -8,7 +8,7 @@
 
 	.contact-method {
 		margin: 0 0 (_size(element-margin) * 0.75) 0;
-		padding-left: 2em;
+		padding-left: _size(element-margin) * 0.5;
 		position: relative;
 
 		.icon {
@@ -24,8 +24,8 @@
     			box-sizing: border-box; 
 
     			iframe {
-      			    max-width: 100%; 
-      			    height: 450px; 
+      			    width: 500px; 
+      			    max-height: 100%; 
     			}
   		}
 

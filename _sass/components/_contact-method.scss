@@ -14,15 +14,16 @@
 		.icon {
 			left: 0;
 			position: absolute;
-			top: 50%;
+			top: 75%;
 			transform: translateY(-50%);
 		}
 		.map {
     			margin-top: 0.25em;
     			padding: 0; 
+			left: 0;
     			display: flex;
-		    	justify-content: left; 
-    			align-items: left; 
+		    	justify-content: center; 
+    			align-items: center;
     			width: 100%; 
     			box-sizing: border-box; 
 

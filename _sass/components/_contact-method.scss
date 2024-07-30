@@ -12,16 +12,14 @@
 		position: relative;
 
 		.icon {
-			padding-left: 0;
+			padding-right: 2.25em;
 			position: relative;
 		}
 		.location {
-			padding-left: 2.25em;
 			position: relative;
 		}
 		.map {
-    			padding: 0; 
-			padding-left: 0;
+    			padding: 0;
     			display: flex;
 		    	justify-content: center; 
     			align-items: center;
@@ -42,11 +40,7 @@
         		padding-left: _size(element-margin) * 0.75;
 
        			.icon {
-            		    right: auto; 
-			    left: 0;
-        		}
-			.location {
-			    padding-left: 2.25em;
+            		    padding-right: 2.25em; 
 			}
         		.map {
             		    margin-top: _size(element-margin) * 0.75;
@@ -63,11 +57,7 @@
         		padding-left: _size(element-margin) * 0.5;
 
         		.icon {
-            		    right: auto; 
-			    left: 0;
-        		}
-			.location {
-			    padding-left: 2em;
+            		    padding-right: 2em; 
 			}
         		.map {
             		    margin-top: _size(element-margin) * 0.5;

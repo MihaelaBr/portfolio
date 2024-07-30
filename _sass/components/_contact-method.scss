@@ -13,6 +13,7 @@
 
 		.icon {
 			padding-right: 1em;
+			padding-bottom: 1em;
 			position: relative;
 		}
 		.map {
@@ -20,7 +21,7 @@
     			display: flex;
 		    	justify-content: center; 
     			align-items: center;
-    			width: 100%; 
+    			height: 100%; 
     			box-sizing: border-box; 
 
     			iframe {
@@ -37,7 +38,8 @@
         		padding-left: _size(element-margin) * 0.5;
 
        			.icon {
-            		    padding-right: 1em; 
+            		    padding-right: 1em;
+			    padding-bottom: 1em;
 			}
         		.map {
             		    margin-top: _size(element-margin) * 0.5;
@@ -54,7 +56,8 @@
         		padding-left: _size(element-margin) * 0.25;
 
         		.icon {
-            		    padding-right: 1em; 
+            		    padding-right: 1em;
+			    padding-bottom: 1em;
 			}
         		.map {
             		    margin-top: _size(element-margin) * 0.25;

@@ -81,7 +81,7 @@
 				@include vendor('flex-direction', 'column');
 				@include vendor('justify-content', 'center');
 				@include vendor('align-items', 'center');
-				@include padding(2em, 3em);
+				@include padding(3em, 4em);
 				width: 70%;
 
 				> .inner {
@@ -134,7 +134,7 @@
 				}
 
 				> .content {
-					@include padding(4em, 3em);
+					@include padding(4em, 4em);
 					width: 100%;
 				}
 			}
@@ -143,7 +143,7 @@
 		@include breakpoint(small) {
 			> section {
 				> .content {
-					@include padding(3em, 1.5em);
+					@include padding(3em, 2em);
 				}
 			}
 		}

@@ -24,13 +24,15 @@
 		<section class="split">
 			<section>
 				<div class="contact-method">
-				    <li class="icon alt fa-map-marker"></li>
-				    <li> 
-					    {% if site.city %} {{ site.city }},
-					    {% endif %}
-					    {% if site.country %} {{ site.country }}
-					    {% endif %}
-				    </li>
+				    <ul class="icons">
+				        <li class="icon alt fa-map-marker"></li>
+				    	<li> 
+					    	{% if site.city %} {{ site.city }},
+					    	{% endif %}
+					    	{% if site.country %} {{ site.country }}
+					    	{% endif %}
+				    	</li>
+				    </ul>
 			    	</div>
 			</section>
 			<section>

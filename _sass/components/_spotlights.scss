@@ -81,7 +81,7 @@
 				@include vendor('flex-direction', 'column');
 				@include vendor('justify-content', 'center');
 				@include vendor('align-items', 'center');
-				@include padding(3em, 4em);
+				@include padding(2em, 4em);
 				width: 70%;
 
 				> .inner {

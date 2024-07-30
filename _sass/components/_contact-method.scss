@@ -13,7 +13,6 @@
 
 		.icon {
 			left: 0;
-			right: 2em;
 			position: absolute;
 			top: 50%;
 			transform: translateY(-50%);
@@ -41,15 +40,16 @@
         		padding-left: _size(element-margin) * 0.75;
 
        			.icon {
-            		    right: 1em; // Adjust positioning for smaller screens
+            		    right: auto; 
+			    left: 0;
         		}
 
         		.map {
             		    margin-top: _size(element-margin) * 0.75;
-            		    padding: 0; // Ensure padding is appropriate
+            		    padding: 0;
 
             		    iframe {
-                	         height: 300px; // Adjust height for smaller screens
+                	         height: 300px; 
             			}
         		}
     		}
@@ -59,15 +59,16 @@
         		padding-left: _size(element-margin) * 0.5;
 
         		.icon {
-            		    right: 0.5em; // Further adjust positioning
+            		    right: auto; 
+			    left: 0;
         		}
 
         		.map {
             		    margin-top: _size(element-margin) * 0.5;
-               		    padding: 0; // Ensure padding is appropriate
+               		    padding: 0; 
 
             		    iframe {
-                		height: 250px; // Further adjust height for mobile screens
+                		height: 250px;
             			}
         		}
     		}

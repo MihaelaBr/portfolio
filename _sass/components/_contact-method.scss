@@ -7,8 +7,8 @@
 /* Contact Method */
 
 	.contact-method {
-		margin: 0 0 _size(element-margin) 0;
-		padding-left: 2.25em;
+		margin: 0 0 (_size(element-margin) * 0.75) 0;
+		padding-left: 2em;
 		position: relative;
 
 		.icon {
@@ -33,14 +33,14 @@
 			margin: 0 0 (_size(element-margin) * 0.25) 0;
 		}
 		@include breakpoint(small) {
-        		margin: 0 0 (_size(element-margin) * 0.75) 0;
-        		padding-left: _size(element-margin) * 0.75;
+        		margin: 0 0 (_size(element-margin) * 0.5) 0;
+        		padding-left: _size(element-margin) * 0.5;
 
        			.icon {
             		    padding-right: 1em; 
 			}
         		.map {
-            		    margin-top: _size(element-margin) * 0.75;
+            		    margin-top: _size(element-margin) * 0.5;
             		    padding: 0;
 
             		    iframe {
@@ -50,14 +50,14 @@
     		}
 
     		@include breakpoint(xsmall) {
-        		margin: 0 0 (_size(element-margin) * 0.5) 0;
-        		padding-left: _size(element-margin) * 0.5;
+        		margin: 0 0 (_size(element-margin) * 0.25) 0;
+        		padding-left: _size(element-margin) * 0.25;
 
         		.icon {
             		    padding-right: 1em; 
 			}
         		.map {
-            		    margin-top: _size(element-margin) * 0.5;
+            		    margin-top: _size(element-margin) * 0.25;
                		    padding: 0; 
 
             		    iframe {

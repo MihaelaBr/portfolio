@@ -17,6 +17,12 @@
 			top: 75%;
 			transform: translateY(-50%);
 		}
+		.location {
+			left: 1em;
+			position: absolute;
+			top: 75%;
+			transform: translateY(-50%);
+		}
 		.map {
     			margin-top: 0.25em;
     			padding: 0; 
@@ -44,7 +50,9 @@
             		    right: auto; 
 			    left: 0;
         		}
-
+			.location {
+			    left: 1em;
+			}
         		.map {
             		    margin-top: _size(element-margin) * 0.75;
             		    padding: 0;
@@ -63,7 +71,9 @@
             		    right: auto; 
 			    left: 0;
         		}
-
+			.location {
+			    left: 1em;
+			}
         		.map {
             		    margin-top: _size(element-margin) * 0.5;
                		    padding: 0; 

@@ -8,11 +8,11 @@
 
 	.contact-method {
 		margin: 0 0 _size(element-margin) 0;
-		padding-left: 3.25em;
+		padding-left: 2.25em;
 		position: relative;
 
 		.icon {
-			padding-right: 2.25em;
+			padding-right: 1.25em;
 			position: relative;
 		}
 		.location {
@@ -40,7 +40,7 @@
         		padding-left: _size(element-margin) * 0.75;
 
        			.icon {
-            		    padding-right: 2.25em; 
+            		    padding-right: 1.25em; 
 			}
         		.map {
             		    margin-top: _size(element-margin) * 0.75;
@@ -57,7 +57,7 @@
         		padding-left: _size(element-margin) * 0.5;
 
         		.icon {
-            		    padding-right: 2em; 
+            		    padding-right: 1em; 
 			}
         		.map {
             		    margin-top: _size(element-margin) * 0.5;

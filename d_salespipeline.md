@@ -29,11 +29,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Data and process</h3>
 				</header>
-				<p>Sales Reps initially input the data about their leads in Atlassian Jira for reporting purposes. Data had to be then ingested into Google BigQuery and for this to be possible on a daily basis I used an app from the Jira Marketplace called "BigQuery Connector for Jira". Transformations of the data were then done directly in BigQuery using SQL with several goals in mind: </p>
-					<p>- cleaning the data (removing negative values, wrong deal amounts, resolving missing data) </p>
-					<p>- creating the necessary KPIs (i.e. pipeline size over time, performance of Sales and Technical Representatives, lead and opportunity closure rates, conversion rates)</p> 
-					<p>- introducing different time granularity like week and months</p>
-<p>Data was then connected with Looker Studio (formerly Google Data Studio) to visualise the KPIs and actual leads. Multiple versions of the dashboards were created after feedback from the UI/UX sessions with the Stakeholders in order to accomplish presicion and drive adoption.</p>
+				<p>Sales Reps initially input the data about their leads in Atlassian Jira for reporting purposes. Data had to be then ingested into Google BigQuery and for this to be possible on a daily basis I used an app from the Jira Marketplace called "BigQuery Connector for Jira". Transformations of the data were then done directly in BigQuery using SQL with several goals in mind: (1) cleaning the data (removing negative values, wrong deal amounts, resolving missing data), (2) creating the necessary KPIs (i.e. pipeline size over time, performance of Sales and Technical Representatives, lead and opportunity closure rates, conversion rates), (3) introducing different time granularity like week and months. Data was then connected with Looker Studio (formerly Google Data Studio) to visualise the KPIs and actual leads. Multiple versions of the dashboards were created after feedback from the UI/UX sessions with the Stakeholders in order to accomplish presicion and drive adoption.</p>
 			</div>
 		</div>
 	</section>

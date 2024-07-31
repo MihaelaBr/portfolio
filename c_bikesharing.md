@@ -44,11 +44,11 @@ Data quality and structure was assessed using SQL on a sample 1 month of the dat
 				<header class="major">
 					<h3>Results</h3>
 				</header>
-				<p>The project concludes with recommendations for the marketing campaign to be created in order to convert more casual riders into members. Recommendations:
+				<p>The project concludes with recommendations for the marketing campaign:
 					<li> Places with good pedestrian visibility and traffic around the top 10 most used stations should be targeted for physical ads placement </li>
 					<li> Digital ads based on device location (matching these stations) of the app users should also be used to inform casual riders of the benefits of becoming members </li>
 					<li> These efforts could be further enhanced by releasing ads in the specific peak hours, days and months discovered during the analysis. </li>
-				<br> Published in the project GitHub repo are data quality checks and cleaning process in SQL, along with samples (CSV format) for the raw and cleaned data. A Tableau Public Dashboard with two separate pages for Stations and Time-series Analysis (link below).</p>
+				Published in the project GitHub repo are data quality checks and cleaning process in SQL, along with samples (CSV format) for the raw and cleaned data. A Tableau Public Dashboard with two separate pages for Stations and Time-series Analysis (link below).</p>
 				<ul class="actions">
 					<li><a href="https://github.com/MihaelaBr/Bike-sharing-project" class="button" target="_blank">GitHub Repo</a></li>
 					<li><a href="https://public.tableau.com/views/CyclisticCaseStudy_17210605199230/CyclisticCaseStudy?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" class="button" target="_blank">Tableau</a></li>

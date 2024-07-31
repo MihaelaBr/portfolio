@@ -14,7 +14,7 @@ nav-menu: true
 		<header class="major">
 			<h2>Brief Overview</h2>
 		</header>
-		<p>This Sales Leads Pipeline Dashboards project was prepared for the C-level executives, Sales Team (Manager, Sales and Technical Representatives). A way was needed to easily track the leads currently in the pipeline along with historical data and conversion rates. The project required change management, UX/UI workshops and significant data manipulation. All company data and any PII is edited out.</p>
+		<p>This Sales Leads Pipeline Dashboards project was prepared for the C-level executives, Sales Team (Manager, Sales and Technical Representatives). A streamlined method was necessary to easily track the current leads in the pipeline, along with historical data and conversion rates. The project required change management, UX/UI workshops and significant data manipulation. All company data and any PII is edited out.</p>
 	</div>
 </section>
 

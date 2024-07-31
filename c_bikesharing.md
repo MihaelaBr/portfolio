@@ -44,8 +44,7 @@ Data quality and structure was assessed using SQL on a sample 1 month of the dat
 				<header class="major">
 					<h3>Results</h3>
 				</header>
-				<p>The project concludes with recommendations for the marketing campaign:
-					<li> Places with good pedestrian visibility and traffic around the top 10 most used stations should be targeted for physical ads placement </li>
+				<p>The project concludes with recommendations for the marketing campaign:<li> Places with good pedestrian visibility and traffic around the top 10 most used stations should be targeted for physical ads placement </li>
 					<li> Digital ads based on device location (matching these stations) of the app users should also be used to inform casual riders of the benefits of becoming members </li>
 					<li> These efforts could be further enhanced by releasing ads in the specific peak hours, days and months discovered during the analysis. </li>
 				Published in the project GitHub repo are data quality checks and cleaning process in SQL, along with samples (CSV format) for the raw and cleaned data. A Tableau Public Dashboard with two separate pages for Stations and Time-series Analysis (link below).</p>

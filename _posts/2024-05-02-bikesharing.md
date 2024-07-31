@@ -16,4 +16,5 @@ The project concludes with recommendations for the marketing campaign to be crea
 - Digital ads based on device location (matching these stations) of the app users should also be used to inform casual riders of the benefits of becoming members
 - These efforts could be further enhanced by releasing ads in the specific peak hours, days and months discovered during the analysis
 
-After preparing and cleaning the data I ingested it into Tableau for further analysis and visualisations preparation. Published in the project [GitHub repo](https://github.com/MihaelaBr/Bike-sharing-project) are data quality checks and cleaning process in SQL, along with a 1000 rows samples in CSV format for the raw and cleaned data respectively and a Tableau Public Dashboard with two separate pages for Stations Analysis and Time-series Analysis.
+Published in the project [GitHub repo](https://github.com/MihaelaBr/Bike-sharing-project) are data quality checks and cleaning process in SQL, along with samples (CSV format) for the raw and cleaned data.
+

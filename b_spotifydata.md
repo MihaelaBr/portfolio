@@ -30,7 +30,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Data and process</h3>
 				</header>
-				<p>Data was provided by Spotify after an official request in April 2024. All initial files provided by Spotify came in JSON format, so in order to have a clearer idea of what is inside the data, one main file with my account's music streaming history (StreamingHistory_music_0.json) was converted to XLSX format. It was then assessed and prepared for analysis inside Google Sheets, for example new column named 'Include Song' was added, based on the time a song was played. After that the file's data was loaded in a Jupyter Notebook where it went through several steps of processing and data visualisation using pandas, matplotlib, numpy and seaborn Python Libraries. </p>
+				<p>Data was provided by Spotify after an official request in April 2024. All initial files provided by Spotify came in JSON format, so in order to have a clearer idea of what is inside the data, one main file with my account's music streaming history (StreamingHistory_music_0.json) was converted to XLSX format. It was then assessed and prepared for analysis inside Google Sheets, for example a new column named 'Include Song' was added, based on the time a song was played. After that the file's data was loaded in a Jupyter Notebook where it went through several steps of processing and data visualisation using pandas, matplotlib, numpy and seaborn Python Libraries. </p>
 			</div>
 		</div>
 	</section>
@@ -61,7 +61,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Inspiration</h3>
 				</header>
-				<p>The project was inspired by a Women in Data Science (WiDS) Workshop on using Python for Spotify data analysis. I used it as an initial template to work with my own data and built on top of it in terms of visualisations features, metrics used and added, data analysed. Check out the workshop for steps on requesting your Spotify data. </p>
+				<p>The project was inspired by a Women in Data Science (WiDS) Workshop on using Python for Spotify data analysis. I used it as an initial template to work with my own data and built on top of it in terms of visualisation features, metrics used and added, data analysed. Check out the workshop for steps on requesting your Spotify data. </p>
 				<ul class="actions">
 					<li><a href="https://youtu.be/2zaGRy54SV8?si=QNzIRVmkHMug-Sbx" class="button" target="_blank">WiDS Workshop</a></li>
 				</ul>

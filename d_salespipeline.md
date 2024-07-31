@@ -14,7 +14,7 @@ nav-menu: true
 		<header class="major">
 			<h2>Brief Overview</h2>
 		</header>
-		<p>This Sales Leads Pipeline Dashboards project was prepared for a client. The C-level executives and the Sales team manager needed Dashboards to track the leads currently in the pipeline along with hystorical data with conversion rates. All company data and any PII is edited out.</p>
+		<p>This Sales Leads Pipeline Dashboards project was prepared for the C-level executives, Sales Team (Manager, Sales and Technical Representatives). A way was needed to easily track the leads currently in the pipeline along with historical data and conversion rates. The project required change management, UX/UI workshops and significant data manipulation. All company data and any PII is edited out.</p>
 	</div>
 </section>
 
@@ -29,7 +29,11 @@ nav-menu: true
 				<header class="major">
 					<h3>Data and process</h3>
 				</header>
-				<p>Data is initially collected in Jira from the Sales Representatives. It is ingested into Google BigQuery using an app from the Jira Marketplace called "BigQuery Connector for Jira", where it is prepared and transformed using SQL and then connected with Looker Studio (formerly Google Data Studio) to create the visualisations and multiple dashboard pages for Active and Closed leads, Weekly reporting by Sales and Technical Representatives.</p>
+				<p>Sales Reps initially input the data about their leads in Atlassian Jira for reporting purposes. Data had to be then ingested into Google BigQuery and for this to be possible on a daily basis I used an app from the Jira Marketplace called "BigQuery Connector for Jira". Transformations of the data were then done directly in BigQuery using SQL with several goals in mind: 
+					- cleaning the data (removing negative values, wrong deal amounts, resolving missing data) 
+					- creating the necessary KPIs (i.e. pipeline size over time, performance of Sales and Technical Representatives, lead and opportunity closure rates, conversion rates). 
+					- introducing different time granularity like week and months
+Data was then connected with Looker Studio (formerly Google Data Studio) to visualise the KPIs and actual leads. Multiple versions of the dashboards were created after feedback from the UI/UX sessions with the Stakeholders in order to accomplish presicion and drive adoption.</p>
 			</div>
 		</div>
 	</section>
@@ -42,7 +46,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Results</h3>
 				</header>
-				<p>The 6 pages from the dashboard are used by management and C-level executives to evaluate the current leads and this part of the work of the Sales and Tech Representatives. All Dashboards are regularly check for errors and are updated with the new data every day. The general dashboard structure is also changed if a new requirement comes from the Stakeholders.</p>
+				<p>The project introduced better sales leads KPIs tracking through the interactive dashboards. This aided in the vertical control of the Sales team, allowing Sales and Technical Representatives, Managers and C-level executives to understand the pipeline and forcast company growth. Monitoring the daily updated information through the dashboards provides a better understanding of next month's financial outcomes and revenue prediction, leading to better informed strategic decisions. The project also increased the visibility into the Sales Representatives performance, improving accountability and motivation.</p>
 				<ul class="actions">
 					<li>
 						<a href="embedded_pdf_sales.html" class="button">Looker Studio Dashboard</a>

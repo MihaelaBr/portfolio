@@ -15,7 +15,7 @@ nav-menu: true
 		<header class="major">
 			<h2>Brief Overview</h2>
 		</header>
-		<p>This is a personal project for Exploratory Data Analysis (EDA) and Visualisations created using Python Jupyter Notebooks with the data from my personal Spotify account. I am a big fan of Spotify as someone who enjoys listening to music without having to necessarily make playlists in order to listen to the music I like, because Spotify makes that for me. The new music it suggests is usually very good but I was wondering what insights I could get by myself from my own data and because of that I decided to try and find out.</p>
+		<p>This is a personal project for Exploratory Data Analysis (EDA) and Visualisations created using Python Jupyter Notebooks with the data from my personal Spotify account. I am a big fan of Spotify because it allows me to enjoy music I like effortlessly without the need to create playlists. The new music it suggests is also usually very good but I was wondering if I would get the same insights and suggestions from my own data.</p>
 	</div>
 </section>
 
@@ -30,7 +30,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Data and process</h3>
 				</header>
-				<p>Data was provided by Spotify after an official request in April 2024. All initial files provided by Spotify came in JSON format, so in order to have a clearer idea of what is inside the data, one main file with my account's music streaming history (StreamingHistory_music_0.json) was converted to XLSX format. It was then assessed and prepared for analysis inside Google Sheets, for example a new column named 'Include Song' was added, based on the time a song was played. After that the file's data was loaded in a Jupyter Notebook where it went through several steps of processing and data visualisation using pandas, matplotlib, numpy and seaborn Python Libraries. </p>
+				<p>Data was provided by Spotify after an official request in April 2024. All initial files provided by Spotify came in JSON format, so in order to have a clearer idea of what is inside the data, one main file with my account's music streaming history (StreamingHistory_music_0.json) was converted to XLSX format. It was then assessed and prepared for analysis inside Google Sheets, for example a new column named 'Include Song' was added, based on the duration of time a song was played. After that the file's data was loaded in a Jupyter Notebook in VSCode where it went through several steps of processing and data visualisation using pandas, matplotlib, numpy and seaborn Python Libraries. </p>
 			</div>
 		</div>
 	</section>
@@ -43,7 +43,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Results</h3>
 				</header>
-				<p>The Python Jupyter Notebook, the cleaned and ready for analysis file (XLSX) as well as the raw data (JSON) was added to a github repository. It does not contain any PII.</p>
+				<p> My results were extremely close to the yearly summary Spotify creates for users, the difference in all likelihood stems from the time period used, as Spotify summary is for a calendar year. The Python Jupyter Notebook, the cleaned and ready for analysis file (XLSX) as well as the raw data (JSON) was added to a github repository. It does not contain any PII.</p>
 				<ul class="actions">
 					<li>
 						<a href="https://github.com/MihaelaBr/Spotify-project" class="button" target="_blank">GitHub repo</a>

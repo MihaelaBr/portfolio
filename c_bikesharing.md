@@ -15,7 +15,7 @@ nav-menu: true
 		<header class="major">
 			<h2>Brief Overview</h2>
 		</header>
-		<p> This Case Study on Bike-sharing services was a Capstone Project prepared during my Google Data Analytics Certificate studies in Coursera. Maximising the number of annual members is considered the key to the company’s future success which is why the marketing team is interested in analysing Cyclistic historical bike trip data to identify trends. The goal of this project is to understand how casual riders and annual members use Cyclistic (a fictional company) bikes differently. Data-backed recommendations are needed to create a new marketing strategy to convert casual riders into annual members.  </p>
+		<p> This Case Study on Bike-sharing services was a Capstone Project prepared during my Google Data Analytics Certificate studies in Coursera. The goal of this project is to understand how casual riders and annual members use Cyclistic (a fictional company) bikes differently. Maximising the number of annual members is considered the key to the company’s future success which is why the marketing team is interested in analysing Cyclistic historical bike trip data to identify trends. Data-backed recommendations are needed to create a new marketing strategy to convert casual riders into annual members.  </p>
 	</div>
 </section>
 
@@ -37,7 +37,7 @@ Data quality and structure was assessed using SQL on a sample 1 month of the dat
 	</section>
 	<section>
 		<a href="embedded_tableau_cyclistic.html" class="image">
-			<img src="{{ site.baseurl }}/assets/images/imgsmall/Cyclistic_Page1_small.png" alt="" data-position="top center" />
+			<img src="{{ site.baseurl }}/assets/images/imgsmall/Small_Cyclistic_Study_Page1.png" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">

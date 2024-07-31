@@ -44,11 +44,11 @@ Data quality and structure was assessed using SQL on a sample 1 month of the dat
 				<header class="major">
 					<h3>Results</h3>
 				</header>
-				<p>The project concludes with recommendations for the marketing campaign to be created in order to convert more casual riders into members. Recommendations: </p>
-					<br> Places with good pedestrian visibility and traffic around the top 10 most used stations should be targeted for physical ads placement </br>
-					<br> Digital ads based on device location (matching these stations) of the app users should also be used to inform casual riders of the benefits of becoming members </br>
-					<br> These efforts could be further enhanced by releasing ads in the specific peak hours, days and months discovered during the analysis. </br>
-				<br>After preparing and cleaning the data I ingested it into Tableau for further analysis and visualisations preparation. Published in the project GitHub repo are data quality checks and cleaning process in SQL, along with a 1000 rows samples in CSV format for the raw and cleaned data respectively and a Tableau Public Dashboard with two separate pages for Stations Analysis and Time-series Analysis. Click on the picture for a more detailed interactive view of the dashboards.</br></p>
+				<p>The project concludes with recommendations for the marketing campaign to be created in order to convert more casual riders into members. Recommendations:
+					<br> - Places with good pedestrian visibility and traffic around the top 10 most used stations should be targeted for physical ads placement 
+					<br> - Digital ads based on device location (matching these stations) of the app users should also be used to inform casual riders of the benefits of becoming members 
+					<br> - These efforts could be further enhanced by releasing ads in the specific peak hours, days and months discovered during the analysis. 
+				<br>After preparing and cleaning the data I ingested it into Tableau for further analysis and visualisations preparation. Published in the project GitHub repo are data quality checks and cleaning process in SQL, along with a 1000 rows samples in CSV format for the raw and cleaned data respectively and a Tableau Public Dashboard with two separate pages for Stations Analysis and Time-series Analysis. Click on the picture for a more detailed interactive view of the dashboards.</p>
 				<ul class="actions">
 					<li><a href="https://github.com/MihaelaBr/Bike-sharing-project" class="button" target="_blank">GitHub Repo</a></li>
 					<li><a href="https://public.tableau.com/views/CyclisticCaseStudy_17210605199230/CyclisticCaseStudy?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link" class="button" target="_blank">Tableau</a></li>

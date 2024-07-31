@@ -22,7 +22,7 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="https://github.com/MihaelaBr/Bike-sharing-project" class="image">
+		<a href="https://github.com/MihaelaBr/Bike-sharing-project" class="image" target="_blank">
 			<img src="{{ site.baseurl }}/assets/images/imgsmall/SQL_BQ_Bikesharing_Flow.png" alt="" data-position="center center" />
 		</a>
 		<div class="content">

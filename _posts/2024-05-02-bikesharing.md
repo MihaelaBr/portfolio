@@ -10,10 +10,10 @@ This Case Study on Bike-sharing services was a Capstone Project prepared during 
 
 Historical trip data was downloaded for the period of 1 year, one file for each month. Data, in CSV format, was ingested into Google BigQuery using Google Cloud Storage buckets as most files were larger than 100MB. Data quality and structure was assessed using SQL on a sample 1 month of the data. Data was then cleaned removing incomplete records, making sure there are no duplicates. All 12 months data was combined in one table (~1GB) . Then new columns for ride duration as time and ride duration in seconds were added as well as a column for day of the week, extracted from the time existing field for ride start. Finally all rides below 60sec duration, including negative ones, as clear errors were excluded from the final file. The prepared data was then uploaded in [Tableau Public](https://public.tableau.com/views/CyclisticCaseStudy_17210605199230/CyclisticCaseStudy?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) for further data analysis and visualisation.
 
-The project concludes with recommendations for the marketing campaign to be created in order to convert more casual riders into members. 
-Recommendations: 
-<br>- Places with good pedestrian visibility and traffic around the top 10 most used stations should be targeted for physical ads placement </br
-<br>- Digital ads based on device location (matching these stations) of the app users should also be used to inform casual riders of the benefits of becoming members </br>
-<br>- these efforts could be further enhanced by releasing ads in the specific peak hours, days and months discovered during the analysis. </br>
+The project concludes with recommendations for the marketing campaign to be created in order to convert more casual riders into members. Recommendations:
+
+- Places with good pedestrian visibility and traffic around the top 10 most used stations should be targeted for physical ads placement
+- Digital ads based on device location (matching these stations) of the app users should also be used to inform casual riders of the benefits of becoming members
+- these efforts could be further enhanced by releasing ads in the specific peak hours, days and months discovered during the analysis
 
 After preparing and cleaning the data I ingested it into Tableau for further analysis and visualisations preparation. Published in the project [GitHub repo](https://github.com/MihaelaBr/Bike-sharing-project) are data quality checks and cleaning process in SQL, along with a 1000 rows samples in CSV format for the raw and cleaned data respectively and a Tableau Public Dashboard with two separate pages for Stations Analysis and Time-series Analysis.

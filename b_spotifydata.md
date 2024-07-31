@@ -43,7 +43,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Results</h3>
 				</header>
-				<p> My results were extremely close to the yearly summary Spotify creates for users, the difference in all likelihood stems from the time period used, as Spotify summary is for a calendar year. The Python Jupyter Notebook, the cleaned and ready for analysis file (XLSX) as well as the raw data (JSON) was added to a github repository. It does not contain any PII.</p>
+				<p> My results were extremely close to the yearly summary Spotify creates for users. The difference likely stems from the time period used, as Spotify's summary covers a calendar year. The Python Jupyter Notebook, the cleaned and ready for analysis file (XLSX) as well as the raw data (JSON) was added to a github repository. It does not contain any PII.</p>
 				<ul class="actions">
 					<li>
 						<a href="https://github.com/MihaelaBr/Spotify-project" class="button" target="_blank">GitHub repo</a>

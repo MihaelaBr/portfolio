@@ -29,7 +29,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Data and process</h3>
 				</header>
-				<p>Sales Reps initially input the data about their leads in Atlassian Jira for reporting purposes. Data had to be then ingested into Google BigQuery and for this to be possible on a daily basis I used an app from the Jira Marketplace called "BigQuery Connector for Jira". Transformations of the data were then done directly in BigQuery using SQL with several goals in mind: (1) cleaning the data (removing negative values, wrong deal amounts, resolving missing data), (2) creating the necessary KPIs (i.e. pipeline size over time, performance of Sales and Technical Representatives, lead and opportunity closure rates, conversion rates), (3) introducing different time granularity like week and months. Data was then connected with Looker Studio (formerly Google Data Studio) to visualise the KPIs and actual leads. Multiple versions of the dashboards were created after feedback from the UI/UX sessions with the Stakeholders in order to accomplish presicion and drive adoption.</p>
+				<p>Sales Reps initially input the data about their leads in Atlassian Jira for reporting purposes. Data had to be then ingested into Google BigQuery and for this to be possible on a daily basis I used an app from the Jira Marketplace called "BigQuery Connector for Jira". Transformations of the data were then done directly in BigQuery using SQL with several goals in mind: (1) cleaning the data (removing negative values, wrong deal amounts, resolving missing data), (2) creating the necessary KPIs (i.e. pipeline size over time, performance of Sales and Technical Representatives, lead and opportunity closure rates, conversion rates), (3) introducing different time granularity like week and months. Data was then connected with Looker Studio (formerly Google Data Studio) to visualise the KPIs and actual leads. Multiple versions of the dashboards were created after feedback from the UI/UX sessions with the Stakeholders in order to accomplish precision and drive adoption.</p>
 			</div>
 		</div>
 	</section>
@@ -42,7 +42,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Results</h3>
 				</header>
-				<p>The project introduced better sales leads KPIs tracking through the interactive dashboards. This aided in the vertical control of the Sales team, allowing Sales and Technical Representatives, Managers and C-level executives to understand the pipeline and forcast company growth. Monitoring the daily updated information through the dashboards provides a better understanding of next month's financial outcomes and revenue prediction, leading to better informed strategic decisions. The project also increased the visibility into the Sales Representatives performance, improving accountability and motivation.</p>
+				<p>The project introduced better sales leads KPIs tracking through the interactive dashboards. This aided in the vertical control of the Sales team, allowing Sales and Technical Representatives, Managers and C-level executives to understand the pipeline and forecast company growth. Monitoring the daily updated information through the dashboards provides a better understanding of next month's financial outcomes and revenue prediction, leading to better informed strategic decisions. The project also increased the visibility into the Sales Representatives performance, improving accountability and motivation.</p>
 				<ul class="actions">
 					<li>
 						<a href="embedded_pdf_sales.html" class="button">Looker Studio Dashboard</a>

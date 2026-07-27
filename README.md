@@ -1,24 +1,20 @@
 # Portfolio Michaela Brankova
 
-This is the repository for my professional portfolio webpage. Here you will find all my recent projects involving data on different topics.
+This is the repository for my professional portfolio webpage. Here you will find some of my more interesting projects involving data on different topics.
 I decided to use GitHub Pages to host my page as it looked as the best solution so I chose a Jekyll Theme as a Template to start building my Portfolio Page.
 It turned into a full project as I felt the need to change the code to display the results of my work in the best way possible.
 My HTML, JavaScript, Git and SCSS skills got a quick improvement during the development of this webpage and I plan to keep improving them.
 
 # About me
-I seek to uncover the secrets of the data I work with and sometimes engineer it’s path and transformation to the vizualisation tools I use. My background is in 
-managing technical projects and working with geospatial data and maps. Excited about anything related to Data and Web Analytics, Data Engineering and Data Science (ML and GenAI), 
-Process automations and App development.
+I am a Senior Data Specialist, Data Engineer and Technical Program Manager who enjoys turning complex problems and messy data into practical solutions. I work mainly with Google Cloud technologies such as BigQuery, Cloud Run and Cloud Storage, building ETL/ELT pipelines, dashboards and automations.
 
-In this Portfolio you can see a few of my data and vizualisation projects created around business topics, some that have a special focus on the urban and natural environment, 
-and also a few that include personal interests like music and movies.
+I am also interested in AI agents and agentic workflows, automating processes and making data easier to access and use. My experience covers SQL, Python, digital and product analytics, data governance, Data (Looker) Studio, Looker and AppSheet.
 
-My strenghts are SQL, Cloud DWH, Dashboards and Visualisations in most of the Business Intelligence and Geo Information Systems tools. I enjoy very much working on improving my 
-Python and R programming, ETL/ELT pipeline building skills as well.
+This portfolio includes a selection of my data, automation and visualisation projects covering business topics, as well as personal interests such as music and films.
 
 ## Credits
 
-All images in this repo, that are do not come from the Demo Template Images, are personal and proprietary.
+All images in this repo, that do not come from the Demo Template Images, are personal and proprietary.
 
 Forty - Jekyll Theme
 

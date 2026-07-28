@@ -1,16 +1,22 @@
 # Portfolio Michaela Brankova
 
-This is the repository for my professional portfolio webpage. Here you will find some of my more interesting projects involving data on different topics.
-I decided to use GitHub Pages to host my page as it looked as the best solution so I chose a Jekyll Theme as a Template to start building my Portfolio Page.
-It turned into a full project as I felt the need to change the code to display the results of my work in the best way possible.
-My HTML, JavaScript, Git and SCSS skills got a quick improvement during the development of this webpage and I plan to keep improving them.
+This is the repository for my professional portfolio webpage. Here you will find some of my more interesting 
+projects involving data on different topics.I decided to use GitHub Pages to host my page as it looked as the 
+best solution so I chose a Jekyll Theme as a Template to start building my Portfolio Page.
+It turned into a full project as I felt the need to change the code to display the results of my work in the 
+best way possible. My HTML, JavaScript, Git and SCSS skills got a quick improvement during the development of 
+this webpage and I plan to keep improving them.
 
 # About me
-I am a Senior Data Specialist, Data Engineer and Technical Program Manager who enjoys turning complex problems and messy data into practical solutions. I work mainly with Google Cloud technologies such as BigQuery, Cloud Run and Cloud Storage, building ETL/ELT pipelines, dashboards and automations.
+I am a Technical Program Manager, Senior Data Specialist and Data Engineer who enjoys turning complex 
+problems and messy data into practical solutions. I work mainly with Google Cloud technologies 
+such as BigQuery, Cloud Run and Cloud Storage, building ETL/ELT pipelines, dashboards and automations.
+I am also interested in AI agents and agentic workflows, automating processes and making data easier to 
+access and use.
 
-I am also interested in AI agents and agentic workflows, automating processes and making data easier to access and use. My experience covers SQL, Python, digital and product analytics, data governance, Data (Looker) Studio, Looker and AppSheet.
-
-This portfolio includes a selection of my data, automation and visualisation projects covering business topics, as well as personal interests such as music and films.
+This portfolio includes a selection of my data, automation and visualisation projects covering business 
+topics, as well as personal interests such as music and films, showcasing my more technical skills in SQL, 
+Python, digital and product analytics, data governance, Data (Looker) Studio, Looker and AppSheet.
 
 ## Credits
 

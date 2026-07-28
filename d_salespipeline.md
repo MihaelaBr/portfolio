@@ -45,7 +45,7 @@ nav-menu: true
 				<p>The project introduced better sales KPIs tracking through the interactive dashboards. This aided in the vertical control of the Sales team, allowing Sales and Technical Representatives, Managers and C-level executives to understand the pipeline and forecast company growth. Monitoring the daily updated information through the dashboards provides a better understanding of next month's financial outcomes and revenue prediction, leading to better informed strategic decisions. The project also increased the visibility into the Sales Representatives performance, improving accountability and motivation.</p>
 				<ul class="actions">
 					<li>
-						<a href="embedded_pdf_sales.html" class="button">Looker Studio Dashboard</a>
+						<a href="embedded_pdf_sales.html" class="button">Data Studio Dashboard</a>
 					</li>
 				</ul>
 			</div>

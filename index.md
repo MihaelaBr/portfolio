@@ -9,7 +9,7 @@ show_tile: false
 nav-menu: true
 ---
 
-I am a Senior Technical Program Manager, Data Specialist and Data Engineer who enjoys turning complex 
+I am a Technical Program Manager, Senior Data Specialist and Data Engineer who enjoys turning complex 
 problems and messy data into practical solutions. I work mainly with Google Cloud technologies 
 such as BigQuery, Cloud Run and Cloud Storage, building ETL/ELT pipelines, dashboards and automations.
 I am also interested in AI agents and agentic workflows, automating processes and making data easier to 
